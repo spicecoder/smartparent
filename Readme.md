@@ -1,7 +1,7 @@
 # SmartGuard - AI-Powered Parental Network Monitor
 
 > *Intelligent family digital wellness through contextual network monitoring*
-
+## Follow Progress Here - https://docs.google.com/document/d/1IwiegovGq8HE8o94GQXhwb0HJ7YpOz4ULNJYlr5LSug/edit?usp=drive-slack&ts=685a7333
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![Raspberry Pi](https://img.shields.io/badge/Platform-Raspberry%20Pi%204-red.svg)](https://raspberrypi.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
