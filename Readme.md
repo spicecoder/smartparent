@@ -18,3 +18,59 @@ SmartGuard is an intelligent network monitoring system designed to help parents 
 - **Easy circumvention**: Tech-savvy teenagers easily bypass simple keyword-based filters
 - **Lack of family insight**: No visibility into healthy vs. concerning digital behavior patterns
 - **All-or-nothing approach**: Current solutions are either too restrictive or too permissive
+
+## Project Limitation
+What the Pi Actually Sees
+DNS Queries Only:
+
+facebook.com
+reddit.com/r/teenagers
+youtube.com
+example-drug-site.com
+
+What It Doesn't See:
+
+Actual page content
+Search terms ("how to make drugs" vs "drugs for health project")
+Videos watched
+Messages sent
+Images viewed
+HTTPS traffic content (which is 95%+ of modern web traffic)
+
+The Smart Analysis Limitation
+The LLM classification in your project can only work with:
+
+Domain names (youtube.com, reddit.com)
+Subdomains (m.facebook.com, old.reddit.com)
+Basic URL patterns if available in DNS requests
+
+It cannot distinguish between:
+
+Educational YouTube video about drug awareness vs. inappropriate content
+Reddit homework help vs. harmful communities
+Google search for "drugs" (school project) vs. actual drug-seeking behavior
+
+Why This Architecture Was Chosen
+The document likely chose this approach because:
+
+Privacy Compliance: Deep packet inspection raises serious privacy/legal concerns
+Technical Simplicity: DNS monitoring is much easier to implement
+Encryption Reality: Most traffic is HTTPS-encrypted anyway
+Legal Requirements: Intercepting actual content could violate wiretapping laws
+
+Real-World Implications for Your Project
+Your SmartParent tool will be effective for:
+
+✅ Identifying visits to known problematic domains
+✅ Tracking time spent on different categories of sites
+✅ Detecting unusual browsing patterns (new domains, late-night activity)
+✅ Blocking access to specific categories
+
+But it will miss:
+
+❌ Context within legitimate sites (harmful content on YouTube/Reddit)
+❌ Encrypted messaging apps content
+❌ Search query intent
+❌ Social media interactions
+
+This is actually a realistic limitation that makes the project more focused and achievable for a 2-month timeline while still providing valuable parental insights.
