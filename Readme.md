@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
 
-## 🎯 Project Overview
+## 🎯 Project Overview & Potential 
 
 SmartGuard is an intelligent network monitoring system designed to help parents understand and guide their teenagers' internet usage through AI-powered content analysis. Unlike traditional parental controls that simply block content, SmartGuard provides contextual understanding - distinguishing between a teenager researching "drugs" for a school health project versus visiting actual drug-related websites.
 
@@ -72,4 +72,9 @@ But it will miss:
 ❌ Encrypted messaging apps content
 ❌ Search query intent
 ❌ Social media interactions
+
+## However this limitation can be overcome using LLM - 
+
+LLM Content Enhancement for SmartParent
+Beyond basic DNS monitoring, the system can leverage LLMs to fetch and analyze actual website content when teens visit new domains. The AI examines homepage text, site purpose, and content themes to provide nuanced risk assessments rather than simple category labels. For example, instead of flagging all of Reddit as "social media," the LLM can distinguish between educational subreddits versus potentially harmful communities. This approach delivers contextual intelligence while respecting privacy boundaries, as it analyzes public website content rather than intercepting personal communications.
 
