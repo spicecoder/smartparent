@@ -19,7 +19,7 @@ SmartGuard is an intelligent network monitoring system designed to help parents 
 - **Lack of family insight**: No visibility into healthy vs. concerning digital behavior patterns
 - **All-or-nothing approach**: Current solutions are either too restrictive or too permissive
 
-## Project Limitation
+## Project Limitation -project is gearred more towards learning tech stacks
 What the Pi Actually Sees
 DNS Queries Only:
 
