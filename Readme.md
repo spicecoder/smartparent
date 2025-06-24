@@ -51,14 +51,14 @@ Reddit homework help vs. harmful communities
 Google search for "drugs" (school project) vs. actual drug-seeking behavior
 
 Why This Architecture Was Chosen
-The document likely chose this approach because:
+ 
 
 Privacy Compliance: Deep packet inspection raises serious privacy/legal concerns
 Technical Simplicity: DNS monitoring is much easier to implement
 Encryption Reality: Most traffic is HTTPS-encrypted anyway
 Legal Requirements: Intercepting actual content could violate wiretapping laws
 
-Real-World Implications for Your Project
+Real-World Implications for Your this Project
 Your SmartParent tool will be effective for:
 
 ✅ Identifying visits to known problematic domains
@@ -73,4 +73,3 @@ But it will miss:
 ❌ Search query intent
 ❌ Social media interactions
 
-This is actually a realistic limitation that makes the project more focused and achievable for a 2-month timeline while still providing valuable parental insights.
