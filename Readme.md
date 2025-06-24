@@ -1,4 +1,4 @@
-# SmartGuard - AI-Powered Parental Network Monitor
+# SmartParent- AI-Powered Parental Network Monitor
 
 > *Intelligent family digital wellness through contextual network monitoring*
 ## Follow Progress Here - https://docs.google.com/document/d/1IwiegovGq8HE8o94GQXhwb0HJ7YpOz4ULNJYlr5LSug/edit?usp=drive-slack&ts=685a7333
