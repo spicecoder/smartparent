@@ -1,0 +1,20 @@
+pi@raspberrypi:~/smartguard-monitor $ sudo cat /etc/dnsmasq.conf | grep -v '^#' | grep -v '^$'
+port=53
+domain-needed
+bogus-priv
+no-resolv
+no-poll
+interface=wlan0
+bind-interfaces
+server=8.8.8.8
+server=8.8.4.4
+server=1.1.1.1
+cache-size=2000
+neg-ttl=3600
+log-queries
+log-facility=/var/log/dnsmasq.log
+local=/local/
+domain=local
+expand-hosts
+no-dhcp-interface=eth0
+no-dhcp-interface=wlan0
