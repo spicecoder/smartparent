@@ -78,3 +78,14 @@ But it will miss:
 LLM Content Enhancement for SmartParent
 Beyond basic DNS monitoring, the system can leverage LLMs to fetch and analyze actual website content when teens visit new domains. The AI examines homepage text, site purpose, and content themes to provide nuanced risk assessments rather than simple category labels. For example, instead of flagging all of Reddit as "social media," the LLM can distinguish between educational subreddits versus potentially harmful communities. This approach delivers contextual intelligence while respecting privacy boundaries, as it analyzes public website content rather than intercepting personal communications.
 
+🧠 SmartParent AI-Stack
+├── AI Runtime Layer
+│   ├── Ollama Service (Local AI server)
+│   └── Phi-3-mini Model (3.8B parameters)
+├── AI Application Layer
+│   ├── Domain Classifier (Python module)
+│   └── Classification Cache (Performance optimization)
+└── AI Data Layer
+    ├── Classification Storage (SQLite tables)
+    ├── Alert Rules Engine (Configurable rules)
+    └── Analytics Schema (Behavioral patterns)
