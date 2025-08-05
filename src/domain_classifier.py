@@ -1,70 +1,101 @@
 #!/usr/bin/env python3
-import requests
-import json
 import sqlite3
 import logging
-import re
+import requests
 from typing import Dict, Optional
 from datetime import datetime
 
 class DomainClassifier:
-    def __init__(self, db_path: str = '../data/smartguard.db'):
+    def __init__(self, db_path: str = '../data/smartguard.db', ollama_host: str = "http://192.168.29.42:11434"):
         self.db_path = db_path
-        self.ollama_url = "http://localhost:11434/api/generate"
+        self.ollama_url = f"{ollama_host}/api/generate"
+        self.model = "llama3"
         self.categories = {
             "educational": {"color": "green", "risk": "low"},
             "entertainment": {"color": "blue", "risk": "low"},
             "social_media": {"color": "yellow", "risk": "medium"},
             "gaming": {"color": "orange", "risk": "medium"},
-            "inappropriate": {"color": "red", "risk": "high"}
+            "shopping": {"color": "purple", "risk": "medium"},
+            "inappropriate": {"color": "red", "risk": "high"},
+            "unknown": {"color": "gray", "risk": "unknown"},
         }
         self.logger = logging.getLogger(__name__)
 
-    def get_classification_prompt(self, domain: str) -> str:
-        return f"Classify the domain {domain} into one of the following categories: educational, entertainment, social_media, gaming, inappropriate. Only respond with the category name."
-
     def classify_domain(self, domain: str) -> Dict[str, any]:
+       
         try:
-            # Check cached result first
-            cached_result = self.get_cached_classification(domain)
-            if cached_result:
-                return cached_result
+            prompt = f"""
+You are a domain classifier. Classify each domain into one of these categories:
+- educational
+- entertainment
+- social_media
+- gaming
+- shopping
+- inappropriate
+- unknown
 
-            # Handle known risky domains (manual override)
-            known_inappropriate = ["pornhub.com", "xvideos.com", "redtube.com", "xnxx.com"]
-            if domain in known_inappropriate:
-                return self.cache_and_return(domain, "inappropriate", 0.85)
+Return only the category name in lowercase.
 
-            # Generate classification via Ollama
-            prompt = self.get_classification_prompt(domain)
-            payload = {
-                "model": "tinyllama:latest",
-                "prompt": prompt,
-                "stream": False,
-                "options": {
-                    "temperature": 0.0,
-                    "top_p": 0.9,
-                    "max_tokens": 20
-                }
+Here are some examples:
+khanacademy.org -> educational
+coursera.org -> educational
+udemy.com -> educational
+edx.org -> educational
+
+netflix.com -> entertainment
+spotify.com -> entertainment
+hulu.com -> entertainment
+
+facebook.com -> social_media
+twitter.com -> social_media
+snapchat.com -> social_media
+stackoverflow.com -> social_media
+
+minecraft.net -> gaming
+steampowered.com -> gaming
+epicgames.com -> gaming
+
+amazon.com -> shopping
+bestbuy.com -> shopping
+myntra.com -> shopping
+
+pornhub.com -> inappropriate
+redtube.com -> inappropriate
+xnxx.com -> inappropriate
+
+If you're not sure, make the most reasonable guess based on domain name and context.
+
+
+Now classify: {domain}
+"""
+            response = requests.post(
+                self.ollama_url,
+                json={"model": self.model, "prompt": prompt, "stream": False},
+                timeout=120
+            )
+            response.raise_for_status()
+            category = response.json().get("response", "").strip().lower()
+
+            if category not in self.categories:
+                category = "unknown"
+
+            confidence = 0.85 if category in ["inappropriate", "educational"] else 0.75
+
+            result = {
+                "domain": domain,
+                "category": category,
+                "confidence": confidence,
+                "risk_level": self.categories[category]["risk"],
+                "color": self.categories[category]["color"],
+                "timestamp": datetime.now().isoformat()
             }
 
-            response = requests.post(self.ollama_url, json=payload, timeout=30)
-            response.raise_for_status()
-            result = response.json()
-
-            raw = result.get("response", "").strip().lower()
-            print(f"[DEBUG] Ollama response for {domain}: {raw}")
-
-            # Extract category using regex from response
-            match = re.search(r'\b(educational|entertainment|social_media|gaming|inappropriate)\b', raw)
-            category = match.group(1) if match else "entertainment"
-
-            confidence = 0.85 if category in ["educational", "inappropriate"] else 0.75
-            return self.cache_and_return(domain, category, confidence)
+            self.cache_classification(result)
+            return result
 
         except Exception as e:
-            self.logger.error(f"Classification error for {domain}: {e}")
-            return self.cache_and_return(domain, "entertainment", 0.5)
+            self.logger.error(f"LLaMA3 error for {domain}: {e}")
+            return self.cache_and_return(domain, "unknown", 0.5)
 
     def cache_and_return(self, domain: str, category: str, confidence: float) -> Dict:
         classification = {
@@ -84,27 +115,27 @@ class DomainClassifier:
             cursor = conn.cursor()
             cursor.execute('''
                 SELECT category, confidence, risk_level, color, timestamp
-                FROM domain_classifications 
+                FROM domain_classifications
                 WHERE domain = ? AND timestamp > datetime('now', '-7 days')
             ''', (domain,))
-            result = cursor.fetchone()
+            row = cursor.fetchone()
             conn.close()
 
-            if result:
+            if row:
                 return {
                     "domain": domain,
-                    "category": result[0],
-                    "confidence": result[1],
-                    "risk_level": result[2],
-                    "color": result[3],
-                    "timestamp": result[4]
+                    "category": row[0],
+                    "confidence": row[1],
+                    "risk_level": row[2],
+                    "color": row[3],
+                    "timestamp": row[4]
                 }
             return None
         except Exception as e:
             self.logger.error(f"Cache lookup error: {e}")
             return None
 
-    def cache_classification(self, classification: Dict):
+    def cache_classification(self, data: Dict):
         try:
             conn = sqlite3.connect(self.db_path)
             cursor = conn.cursor()
@@ -120,16 +151,16 @@ class DomainClassifier:
                 )
             ''')
             cursor.execute('''
-                INSERT OR REPLACE INTO domain_classifications 
+                INSERT OR REPLACE INTO domain_classifications
                 (domain, category, confidence, risk_level, color, timestamp)
                 VALUES (?, ?, ?, ?, ?, ?)
             ''', (
-                classification["domain"],
-                classification["category"],
-                classification["confidence"],
-                classification["risk_level"],
-                classification["color"],
-                classification["timestamp"]
+                data["domain"],
+                data["category"],
+                data["confidence"],
+                data["risk_level"],
+                data["color"],
+                data["timestamp"]
             ))
             conn.commit()
             conn.close()
@@ -139,11 +170,13 @@ class DomainClassifier:
 if __name__ == '__main__':
     classifier = DomainClassifier()
     test_domains = [
-        "facebook.com",
-        "xvideos.com",
-        "pornhub.com",
-        "minecraft.net",
-        "google.com"
+        "www.sydney.edu.au", "futurelearn.com",              # educational
+    "crunchyroll.com", "primevideo.com",             # entertainment
+    "pinterest.com", "threads.net",                  # social_media
+    "ign.com", "gamepedia.com",                      # gaming
+    "nykaa.com", "ajio.com",                         # shopping
+    "spankbang.com", "hclips.com",                   # inappropriate
+    "replit.com", "archive.org"  
     ]
     for domain in test_domains:
         result = classifier.classify_domain(domain)
