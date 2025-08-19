@@ -111,7 +111,7 @@ Now classify: {domain}
 
     def get_cached_classification(self, domain: str) -> Optional[Dict]:
         try:
-            conn = sqlite3.connect(self.db_path)
+            conn = sqlite3.connect(self.db_path, timeout=10)
             cursor = conn.cursor()
             cursor.execute('''
                 SELECT category, confidence, risk_level, color, timestamp

@@ -1,0 +1,1781 @@
+2025-08-18 13:43:08,190 - INFO - 🚀 DNS Monitor started on :53
+2025-08-18 14:35:48,113 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:35:48,114 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:36:57,154 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:36:57,155 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:37:07,398 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:37:07,399 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:37:17,674 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:37:17,675 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:37:28,127 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:37:28,130 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:37:38,567 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:37:38,569 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:37:46,249 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:37:46,249 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:37:56,672 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:37:56,672 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:38:06,951 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:38:06,951 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:38:17,213 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:38:17,214 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:38:27,567 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:38:27,568 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:38:37,929 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:38:37,930 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:38:48,170 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:38:48,171 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:38:58,406 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:38:58,407 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:39:08,661 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:39:08,662 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:39:19,038 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:39:19,039 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:39:29,585 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:39:29,585 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:39:39,989 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:39:39,989 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:39:50,474 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:39:50,474 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:40:00,715 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:40:00,715 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:40:11,138 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:40:11,140 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:40:21,447 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:40:21,447 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:40:31,700 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:40:31,700 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:40:41,973 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:40:41,974 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:40:52,203 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:40:52,204 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:41:02,426 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:41:02,427 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:41:12,699 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:41:12,700 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:41:23,087 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:41:23,090 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:41:33,499 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:41:33,501 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:41:43,938 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:41:43,939 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:41:54,431 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:41:54,432 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:42:04,898 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:42:04,899 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:42:15,251 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:42:15,251 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:42:25,669 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:42:25,669 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:42:35,948 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:42:35,948 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:42:46,212 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:42:46,213 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:42:56,864 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:42:56,865 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:43:07,295 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:43:07,296 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:43:17,688 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:43:17,689 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:43:28,161 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:43:28,162 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:43:38,716 - ERROR - Failed to start DNS monitor: [Errno 13] Permission denied
+2025-08-18 14:43:38,717 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 14:43:49,068 - INFO - 🚀 DNS Monitor started on :53
+2025-08-18 14:43:55,957 - INFO - 🚀 DNS Monitor started on :53
+2025-08-18 14:53:07,221 - INFO - 🚀 DNS Monitor started on :53
+2025-08-18 15:50:05,730 - INFO - 🚀 DNS Monitor started on :53
+2025-08-18 15:50:38,194 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 15:50:38,195 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 15:50:59,250 - INFO - 🚀 DNS Monitor started on :53
+2025-08-18 15:57:10,113 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 15:57:10,113 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 15:57:13,639 - INFO - 🚀 DNS Monitor started on :53
+2025-08-18 15:57:34,831 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:57:55,656 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:57:55,703 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:58:19,896 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,510 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,511 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,512 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,513 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,515 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,516 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,520 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,520 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 15:59:31,522 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:07,549 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:07,768 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:07,770 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:07,770 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:07,771 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:08,082 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:08,083 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:08,998 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:08,998 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:08,998 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:11,078 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:11,078 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:11,855 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:11,857 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:11,858 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:11,859 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:11,860 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:11,859 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:45,019 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:45,022 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:45,024 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:45,027 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:45,029 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:00:45,030 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:01:40,837 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:01:40,837 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:01:41,154 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:03:10,157 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,111 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,112 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,112 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,113 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,119 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,121 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,121 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,122 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,125 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,131 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,128 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,128 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,137 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,139 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,142 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:04:55,145 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:25,523 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:25,527 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:25,952 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:26,142 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:26,144 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:30,233 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:30,236 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:30,465 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:30,469 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:31,483 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:06:31,485 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:09:26,149 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:09:30,199 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:09:42,134 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:09:43,423 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:09:43,423 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:10:44,515 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:10:44,515 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:11:54,921 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 16:11:54,922 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 16:12:11,186 - INFO - 🚀 DNS Monitor started on 0.0.0.0:53
+2025-08-18 16:12:33,062 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:13:49,315 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:13:49,316 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,408 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,410 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,413 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,413 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,413 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,415 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,420 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,421 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,426 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,429 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,433 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,437 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,439 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,439 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,449 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:35,450 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:14:58,253 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:15:02,993 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:15:03,053 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:15:03,089 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:15:03,140 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:15:03,569 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:15:03,630 - ERROR - Database error: table dns_requests has no column named query_type
+2025-08-18 16:16:43,374 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 16:16:43,374 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 16:16:46,394 - INFO - 🚀 DNS Monitor started on 0.0.0.0:53
+2025-08-18 16:17:34,980 - INFO - 📡 DNS: 192.168.29.249 -> vowifi.jio.com
+2025-08-18 16:18:20,075 - INFO - 📡 DNS: 192.168.29.249 -> epdg.epc.mnc053.mcc405.pub.3gppnetwork.org
+2025-08-18 16:18:33,187 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:18:33,200 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:18:33,217 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:18:33,240 - INFO - 📡 DNS: 192.168.29.209 -> mask.apple-dns.net
+2025-08-18 16:18:35,137 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:18:35,160 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:20:43,935 - INFO - 📡 DNS: 127.0.0.1 -> bbc.com
+2025-08-18 16:20:43,993 - INFO - 📡 DNS: 127.0.0.1 -> bbc.com
+2025-08-18 16:23:59,843 - INFO - 📡 DNS: 127.0.0.1 -> puma.com
+2025-08-18 16:23:59,902 - INFO - 📡 DNS: 127.0.0.1 -> puma.com
+2025-08-18 16:24:18,589 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:24:18,601 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:24:18,615 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:24:18,691 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:24:18,728 - INFO - 📡 DNS: 192.168.29.209 -> gateway.icloud.com
+2025-08-18 16:24:18,755 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:24:18,781 - INFO - 📡 DNS: 192.168.29.209 -> captive.apple.com
+2025-08-18 16:24:18,807 - INFO - 📡 DNS: 192.168.29.209 -> bag.itunes.apple.com
+2025-08-18 16:24:18,832 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:24:18,856 - INFO - 📡 DNS: 192.168.29.209 -> captive.g.aaplimg.com
+2025-08-18 16:24:18,880 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:24:18,909 - INFO - 📡 DNS: 192.168.29.209 -> smp-device-content.apple.com
+2025-08-18 16:24:18,939 - INFO - 📡 DNS: 192.168.29.209 -> smp-device-content.apple.com
+2025-08-18 16:24:18,969 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls2-apple.com.akadns.net
+2025-08-18 16:24:19,009 - INFO - 📡 DNS: 192.168.29.209 -> smp-device-content.apple.com
+2025-08-18 16:24:19,038 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls2-apple.com.akadns.net
+2025-08-18 16:24:19,089 - INFO - 📡 DNS: 192.168.29.209 -> gateway.icloud.com
+2025-08-18 16:24:19,160 - INFO - 📡 DNS: 192.168.29.209 -> bag.itunes.apple.com
+2025-08-18 16:24:19,184 - INFO - 📡 DNS: 192.168.29.209 -> gateway.icloud.com
+2025-08-18 16:24:19,418 - INFO - 📡 DNS: 192.168.29.209 -> bag.itunes.apple.com
+2025-08-18 16:24:19,447 - INFO - 📡 DNS: 192.168.29.209 -> lb._dns-sd._udp.0.29.168.192.in-addr.arpa
+2025-08-18 16:24:19,481 - INFO - 📡 DNS: 192.168.29.209 -> lb._dns-sd._udp.134.210.103.100.in-addr.arpa
+2025-08-18 16:24:19,505 - INFO - 📡 DNS: 192.168.29.209 -> bag.itunes.apple.com
+2025-08-18 16:24:19,529 - INFO - 📡 DNS: 192.168.29.209 -> bag.itunes.apple.com
+2025-08-18 16:24:19,540 - INFO - 📡 DNS: 192.168.29.209 -> smp-device-content.g.aaplimg.com
+2025-08-18 16:24:19,564 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:24:19,578 - INFO - 📡 DNS: 192.168.29.209 -> captive.apple.com
+2025-08-18 16:24:19,594 - INFO - 📡 DNS: 192.168.29.209 -> captive.apple.com
+2025-08-18 16:24:19,617 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:24:19,666 - INFO - 📡 DNS: 192.168.29.209 -> ipv4only.arpa
+2025-08-18 16:24:19,699 - INFO - 📡 DNS: 192.168.29.209 -> captive.apple.com
+2025-08-18 16:24:19,716 - INFO - 📡 DNS: 192.168.29.209 -> e9959.dsce9.akamaiedge.net
+2025-08-18 16:24:19,741 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:24:19,755 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:24:19,774 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:24:19,790 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:24:19,811 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:24:19,846 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:24:19,901 - INFO - 📡 DNS: 192.168.29.209 -> captive.apple.com
+2025-08-18 16:24:20,073 - INFO - 📡 DNS: 192.168.29.209 -> a68.dscg4.akamai.net
+2025-08-18 16:24:37,118 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:25:23,191 - INFO - 📡 DNS: 192.168.29.209 -> lb._dns-sd._udp.0.29.168.192.in-addr.arpa
+2025-08-18 16:28:05,430 - INFO - 📡 DNS: 192.168.29.209 -> lb._dns-sd._udp.0.29.168.192.in-addr.arpa
+2025-08-18 16:28:18,094 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:28:18,111 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:28:18,127 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:28:18,154 - INFO - 📡 DNS: 192.168.29.209 -> mask.apple-dns.net
+2025-08-18 16:28:21,494 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:29:17,454 - INFO - 📡 DNS: 192.168.29.209 -> sync.1rx.io
+2025-08-18 16:29:17,537 - INFO - 📡 DNS: 192.168.29.209 -> sync.1rx.io
+2025-08-18 16:29:17,567 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:29:17,585 - INFO - 📡 DNS: 192.168.29.209 -> adservice.google.com
+2025-08-18 16:29:17,595 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:29:17,606 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com
+2025-08-18 16:29:17,617 - INFO - 📡 DNS: 192.168.29.209 -> c.bing.com
+2025-08-18 16:29:17,627 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:29:17,636 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:29:17,645 - INFO - 📡 DNS: 192.168.29.209 -> adservice.google.com
+2025-08-18 16:29:17,656 - INFO - 📡 DNS: 192.168.29.209 -> cdn.taboola.com
+2025-08-18 16:29:17,665 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:29:17,676 - INFO - 📡 DNS: 192.168.29.209 -> x.bidswitch.net
+2025-08-18 16:29:17,685 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:29:17,696 - INFO - 📡 DNS: 192.168.29.209 -> apse1-ssp-prod-syncweb-alb-1135453511.ap-southeast-1.elb.amazonaws.com
+2025-08-18 16:29:17,719 - INFO - 📡 DNS: 192.168.29.209 -> cdnjs.cloudflare.com
+2025-08-18 16:29:17,733 - INFO - 📡 DNS: 192.168.29.209 -> 9526535.fls.doubleclick.net
+2025-08-18 16:29:17,744 - INFO - 📡 DNS: 192.168.29.209 -> dis.criteo.com
+2025-08-18 16:29:17,752 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com
+2025-08-18 16:29:17,760 - INFO - 📡 DNS: 192.168.29.209 -> activationedge-activation-886544353.ap-northeast-1.elb.amazonaws.com
+2025-08-18 16:29:17,771 - INFO - 📡 DNS: 192.168.29.209 -> cs.adingo.jp
+2025-08-18 16:29:17,781 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:29:17,791 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:29:17,802 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:29:17,813 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:29:17,821 - INFO - 📡 DNS: 192.168.29.209 -> 9526535.fls.doubleclick.net
+2025-08-18 16:29:17,833 - INFO - 📡 DNS: 192.168.29.209 -> user-data-apac-jp.bidswitch.net
+2025-08-18 16:29:17,844 - INFO - 📡 DNS: 192.168.29.209 -> ib.sin1.geoadnxs.com
+2025-08-18 16:29:17,854 - INFO - 📡 DNS: 192.168.29.209 -> cm.creativecdn.com
+2025-08-18 16:29:17,864 - INFO - 📡 DNS: 192.168.29.209 -> gum.sg1.vip.prod.criteo.com
+2025-08-18 16:29:17,873 - INFO - 📡 DNS: 192.168.29.209 -> cm.creativecdn.com
+2025-08-18 16:29:17,886 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:29:17,897 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com
+2025-08-18 16:29:17,908 - INFO - 📡 DNS: 192.168.29.209 -> cm.creativecdn.com
+2025-08-18 16:29:17,919 - INFO - 📡 DNS: 192.168.29.209 -> simage2.pubmatic.com
+2025-08-18 16:29:17,934 - INFO - 📡 DNS: 192.168.29.209 -> tls13.taboola.map.fastly.net
+2025-08-18 16:29:17,946 - INFO - 📡 DNS: 192.168.29.209 -> adservice.google.com
+2025-08-18 16:29:17,956 - INFO - 📡 DNS: 192.168.29.209 -> sync.1rx.io
+2025-08-18 16:29:17,968 - INFO - 📡 DNS: 192.168.29.209 -> googleads.g.doubleclick.net
+2025-08-18 16:29:17,977 - INFO - 📡 DNS: 192.168.29.209 -> cdn.taboola.com
+2025-08-18 16:29:17,985 - INFO - 📡 DNS: 192.168.29.209 -> googleads.g.doubleclick.net
+2025-08-18 16:29:17,998 - INFO - 📡 DNS: 192.168.29.209 -> mc.yandex.ru
+2025-08-18 16:29:18,011 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:29:18,022 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync.smartadserver.com
+2025-08-18 16:29:18,034 - INFO - 📡 DNS: 192.168.29.209 -> fundingchoicesmessages.google.com
+2025-08-18 16:29:18,044 - INFO - 📡 DNS: 192.168.29.209 -> fundingchoicesmessages.google.com
+2025-08-18 16:29:18,056 - INFO - 📡 DNS: 192.168.29.209 -> fundingchoicesmessages.google.com
+2025-08-18 16:29:18,068 - INFO - 📡 DNS: 192.168.29.209 -> pagead2.googlesyndication.com
+2025-08-18 16:29:18,079 - INFO - 📡 DNS: 192.168.29.209 -> csi.gstatic.com
+2025-08-18 16:29:18,088 - INFO - 📡 DNS: 192.168.29.209 -> pagead2.googlesyndication.com
+2025-08-18 16:29:18,099 - INFO - 📡 DNS: 192.168.29.209 -> mc.yandex.ru
+2025-08-18 16:29:18,112 - INFO - 📡 DNS: 192.168.29.209 -> mc.yandex.ru
+2025-08-18 16:29:18,121 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:29:18,135 - INFO - 📡 DNS: 192.168.29.209 -> api2.branch.io
+2025-08-18 16:29:18,146 - INFO - 📡 DNS: 192.168.29.209 -> fonts.gstatic.com
+2025-08-18 16:29:18,159 - INFO - 📡 DNS: 192.168.29.209 -> eb2.3lift.com
+2025-08-18 16:29:18,173 - INFO - 📡 DNS: 192.168.29.209 -> www3.l.google.com
+2025-08-18 16:29:18,183 - INFO - 📡 DNS: 192.168.29.209 -> cds.taboola.com
+2025-08-18 16:29:18,193 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:29:18,201 - INFO - 📡 DNS: 192.168.29.209 -> cs.adingo.jp
+2025-08-18 16:29:18,212 - INFO - 📡 DNS: 192.168.29.209 -> api2.branch.io
+2025-08-18 16:29:18,221 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.com
+2025-08-18 16:29:18,244 - INFO - 📡 DNS: 192.168.29.209 -> d3jdaktv9qp9iu.cloudfront.net
+2025-08-18 16:29:18,261 - INFO - 📡 DNS: 192.168.29.209 -> d3jdaktv9qp9iu.cloudfront.net
+2025-08-18 16:29:18,273 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:29:18,281 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:29:18,290 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:29:18,308 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:29:18,373 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:29:18,396 - INFO - 📡 DNS: 192.168.29.209 -> cdnjs.cloudflare.com
+2025-08-18 16:29:18,425 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:29:18,463 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:29:18,489 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:29:18,510 - INFO - 📡 DNS: 192.168.29.209 -> pagead2.googlesyndication.com
+2025-08-18 16:29:18,531 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:29:18,562 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:29:18,589 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:29:18,611 - INFO - 📡 DNS: 192.168.29.209 -> ib.sin1.geoadnxs.com
+2025-08-18 16:29:18,631 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:29:18,661 - INFO - 📡 DNS: 192.168.29.209 -> apse1-ssp-prod-syncweb-alb-1135453511.ap-southeast-1.elb.amazonaws.com
+2025-08-18 16:29:18,680 - INFO - 📡 DNS: 192.168.29.209 -> d3jdaktv9qp9iu.cloudfront.net
+2025-08-18 16:29:18,706 - INFO - 📡 DNS: 192.168.29.209 -> fonts.gstatic.com
+2025-08-18 16:29:18,717 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:29:18,735 - INFO - 📡 DNS: 192.168.29.209 -> fp1.ads.stickyadstv.com.akadns.net
+2025-08-18 16:29:18,753 - INFO - 📡 DNS: 192.168.29.209 -> x.bidswitch.net
+2025-08-18 16:29:18,764 - INFO - 📡 DNS: 192.168.29.209 -> googleads.g.doubleclick.net
+2025-08-18 16:29:18,779 - INFO - 📡 DNS: 192.168.29.209 -> api2.branch.io
+2025-08-18 16:29:18,795 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:29:18,815 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:29:18,827 - INFO - 📡 DNS: 192.168.29.209 -> apse1-ssp-prod-syncweb-alb-1135453511.ap-southeast-1.elb.amazonaws.com
+2025-08-18 16:29:18,854 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:29:18,866 - INFO - 📡 DNS: 192.168.29.209 -> dis.criteo.com
+2025-08-18 16:29:18,880 - INFO - 📡 DNS: 192.168.29.209 -> c.bing.com
+2025-08-18 16:29:18,902 - INFO - 📡 DNS: 192.168.29.209 -> csi.gstatic.com
+2025-08-18 16:29:18,917 - INFO - 📡 DNS: 192.168.29.209 -> contextual.media.net
+2025-08-18 16:29:18,953 - INFO - 📡 DNS: 192.168.29.209 -> cds.taboola.com
+2025-08-18 16:29:18,966 - INFO - 📡 DNS: 192.168.29.209 -> csi.gstatic.com
+2025-08-18 16:29:18,984 - INFO - 📡 DNS: 192.168.29.209 -> x.bidswitch.net
+2025-08-18 16:29:19,005 - INFO - 📡 DNS: 192.168.29.209 -> x.bidswitch.net
+2025-08-18 16:29:19,019 - INFO - 📡 DNS: 192.168.29.209 -> fonts.gstatic.com
+2025-08-18 16:29:19,053 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:29:19,072 - INFO - 📡 DNS: 192.168.29.209 -> 9526535.fls.doubleclick.net
+2025-08-18 16:29:19,086 - INFO - 📡 DNS: 192.168.29.209 -> c.bing.com
+2025-08-18 16:29:19,106 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:29:19,118 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:29:19,141 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:29:19,151 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:29:19,160 - INFO - 📡 DNS: 192.168.29.209 -> eb2.3lift.com
+2025-08-18 16:29:19,185 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:29:19,206 - INFO - 📡 DNS: 192.168.29.209 -> x.bidswitch.net
+2025-08-18 16:29:19,222 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:29:19,251 - INFO - 📡 DNS: 192.168.29.209 -> cdnjs.cloudflare.com
+2025-08-18 16:29:19,263 - INFO - 📡 DNS: 192.168.29.209 -> eb2.3lift.com
+2025-08-18 16:29:19,284 - INFO - 📡 DNS: 192.168.29.209 -> cds.taboola.com
+2025-08-18 16:29:19,308 - INFO - 📡 DNS: 192.168.29.209 -> cdn.taboola.com
+2025-08-18 16:29:19,319 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:29:19,354 - INFO - 📡 DNS: 192.168.29.209 -> cs.adingo.jp
+2025-08-18 16:29:19,384 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:29:19,423 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:29:19,456 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:29:19,484 - INFO - 📡 DNS: 192.168.29.209 -> cdn.taboola.com
+2025-08-18 16:29:19,525 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync.smartadserver.com
+2025-08-18 16:29:19,564 - INFO - 📡 DNS: 192.168.29.209 -> dis.criteo.com
+2025-08-18 16:29:19,584 - INFO - 📡 DNS: 192.168.29.209 -> fp1.ads.stickyadstv.com.akadns.net
+2025-08-18 16:29:19,622 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:29:19,665 - INFO - 📡 DNS: 192.168.29.209 -> hcdnw119.ovc.v6.new.insider.cdnhwcuim119.com
+2025-08-18 16:29:19,694 - INFO - 📡 DNS: 192.168.29.209 -> cdnjs.cloudflare.com
+2025-08-18 16:29:19,708 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:29:19,723 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.com
+2025-08-18 16:29:19,744 - INFO - 📡 DNS: 192.168.29.209 -> cdnjs.cloudflare.com
+2025-08-18 16:29:19,770 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com
+2025-08-18 16:29:19,822 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.com
+2025-08-18 16:29:19,924 - INFO - 📡 DNS: 192.168.29.209 -> c.bing.com
+2025-08-18 16:29:20,023 - INFO - 📡 DNS: 192.168.29.209 -> contextual.media.net
+2025-08-18 16:29:20,125 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:29:20,224 - INFO - 📡 DNS: 192.168.29.209 -> simage2.pubmatic.com
+2025-08-18 16:29:20,324 - INFO - 📡 DNS: 192.168.29.209 -> contextual.media.net
+2025-08-18 16:29:20,427 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:29:20,523 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:29:20,623 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync.smartadserver.com
+2025-08-18 16:29:20,727 - INFO - 📡 DNS: 192.168.29.209 -> c.bing.com
+2025-08-18 16:29:20,826 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:29:20,927 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:29:21,030 - INFO - 📡 DNS: 192.168.29.209 -> simage2.pubmatic.com
+2025-08-18 16:29:21,128 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:29:21,230 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:29:30,597 - INFO - 📡 DNS: 192.168.29.179 -> epdg.epc.mnc053.mcc405.pub.3gppnetwork.org
+2025-08-18 16:30:13,811 - INFO - 📡 DNS: 192.168.29.152 -> cl2.g.aaplimg.com
+2025-08-18 16:30:13,827 - INFO - 📡 DNS: 192.168.29.152 -> cl2.g.aaplimg.com
+2025-08-18 16:30:13,843 - INFO - 📡 DNS: 192.168.29.152 -> e6858.dsce9.akamaiedge.net
+2025-08-18 16:30:13,862 - INFO - 📡 DNS: 192.168.29.152 -> e6858.dsce9.akamaiedge.net
+2025-08-18 16:30:13,887 - INFO - 📡 DNS: 192.168.29.152 -> e6858.dsce9.akamaiedge.net
+2025-08-18 16:30:13,916 - INFO - 📡 DNS: 192.168.29.152 -> e6858.dsce9.akamaiedge.net
+2025-08-18 16:30:14,028 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,091 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,110 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,150 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,161 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,199 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,209 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,260 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,358 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:14,475 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,484 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,493 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,523 - INFO - 📡 DNS: 192.168.29.152 -> sockjs-us3.pusher.com
+2025-08-18 16:30:15,533 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,562 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,574 - INFO - 📡 DNS: 192.168.29.152 -> sockjs-us3.pusher.com
+2025-08-18 16:30:15,610 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,635 - INFO - 📡 DNS: 192.168.29.152 -> sockjs-us3.pusher.com
+2025-08-18 16:30:15,648 - INFO - 📡 DNS: 192.168.29.152 -> sdk.split.io
+2025-08-18 16:30:15,669 - INFO - 📡 DNS: 192.168.29.152 -> sdk.split.io
+2025-08-18 16:30:15,692 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,708 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,725 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,744 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,796 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:30:15,894 - INFO - 📡 DNS: 192.168.29.152 -> sdk.split.io
+2025-08-18 16:33:35,018 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:35:08,434 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:35:09,724 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:35:13,440 - ERROR - Upstream DNS error: timed out
+2025-08-18 16:36:41,983 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:37:35,259 - INFO - 📡 DNS: 192.168.29.249 -> vowifi.jio.com
+2025-08-18 16:38:20,519 - INFO - 📡 DNS: 192.168.29.249 -> epdg.epc.mnc053.mcc405.pub.3gppnetwork.org
+2025-08-18 16:38:24,688 - INFO - 📡 DNS: 192.168.29.249 -> epdg.epc.mnc053.mcc405.pub.3gppnetwork.org
+2025-08-18 16:38:35,064 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:38:35,081 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:38:35,098 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:38:35,116 - INFO - 📡 DNS: 192.168.29.209 -> gateway.icloud.com
+2025-08-18 16:38:35,183 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:38:35,203 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:38:35,223 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls2-apple.com.akadns.net
+2025-08-18 16:38:36,516 - INFO - 📡 DNS: 192.168.29.209 -> ipv4only.arpa
+2025-08-18 16:38:36,534 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:38:36,680 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:38:36,689 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:38:36,701 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:14,327 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:45:14,338 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:45:14,347 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:45:14,357 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:45:14,366 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:45:14,374 - INFO - 📡 DNS: 192.168.29.209 -> sentry.io
+2025-08-18 16:45:14,387 - INFO - 📡 DNS: 192.168.29.209 -> sentry.io
+2025-08-18 16:45:14,400 - INFO - 📡 DNS: 192.168.29.209 -> gateway.icloud.com
+2025-08-18 16:45:14,419 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 16:45:14,430 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:45:14,439 - INFO - 📡 DNS: 192.168.29.209 -> gateway.icloud.com
+2025-08-18 16:45:14,454 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls2-apple.com.akadns.net
+2025-08-18 16:45:14,463 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:14,473 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:14,482 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:14,505 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:14,516 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:45:14,530 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:14,552 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls2-apple.com.akadns.net
+2025-08-18 16:45:14,564 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 16:45:14,582 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:14,615 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 16:45:14,659 - INFO - 📡 DNS: 192.168.29.209 -> ipv4only.arpa
+2025-08-18 16:45:22,413 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:45:22,423 - INFO - 📡 DNS: 192.168.29.209 -> gateway.icloud.com
+2025-08-18 16:45:22,433 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:45:22,441 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:45:22,458 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls.apple.com
+2025-08-18 16:45:22,477 - INFO - 📡 DNS: 192.168.29.209 -> gateway.icloud.com
+2025-08-18 16:45:22,490 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:45:22,515 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:45:22,543 - INFO - 📡 DNS: 192.168.29.209 -> sentry.io
+2025-08-18 16:45:22,556 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls2-apple.com.akadns.net
+2025-08-18 16:45:22,567 - INFO - 📡 DNS: 192.168.29.209 -> gsp85-ssl.ls2-apple.com.akadns.net
+2025-08-18 16:45:22,587 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:22,596 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:22,604 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:45:22,694 - INFO - 📡 DNS: 192.168.29.209 -> sentry.io
+2025-08-18 16:45:25,749 - INFO - 📡 DNS: 192.168.29.209 -> bbc.gscontxt.net
+2025-08-18 16:45:25,987 - INFO - 📡 DNS: 192.168.29.209 -> bbc.gscontxt.net
+2025-08-18 16:45:26,009 - INFO - 📡 DNS: 192.168.29.209 -> bbc.gscontxt.net
+2025-08-18 16:45:26,111 - INFO - 📡 DNS: 192.168.29.209 -> bbc-apsing.gscontxt.net
+2025-08-18 16:45:26,144 - INFO - 📡 DNS: 192.168.29.209 -> bbc-apsing.gscontxt.net
+2025-08-18 16:45:26,226 - INFO - 📡 DNS: 192.168.29.209 -> bag.itunes.apple.com
+2025-08-18 16:45:26,254 - INFO - 📡 DNS: 192.168.29.209 -> bag.itunes.apple.com
+2025-08-18 16:45:26,268 - INFO - 📡 DNS: 192.168.29.209 -> bag.itunes.apple.com
+2025-08-18 16:45:26,340 - INFO - 📡 DNS: 192.168.29.209 -> a68.dscg4.akamai.net
+2025-08-18 16:45:27,468 - INFO - 📡 DNS: 192.168.29.209 -> in.search.yahoo.com
+2025-08-18 16:45:27,485 - INFO - 📡 DNS: 192.168.29.209 -> in.search.yahoo.com
+2025-08-18 16:45:27,503 - INFO - 📡 DNS: 192.168.29.209 -> in.search.yahoo.com
+2025-08-18 16:45:27,531 - INFO - 📡 DNS: 192.168.29.209 -> ds-global3.l7.search.ystg1.b.yahoo.com
+2025-08-18 16:45:27,945 - INFO - 📡 DNS: 192.168.29.209 -> s.yimg.com
+2025-08-18 16:45:27,963 - INFO - 📡 DNS: 192.168.29.209 -> s.yimg.com
+2025-08-18 16:45:27,979 - INFO - 📡 DNS: 192.168.29.209 -> s.yimg.com
+2025-08-18 16:45:28,004 - INFO - 📡 DNS: 192.168.29.209 -> edge.gycpi.b.yahoodns.net
+2025-08-18 16:45:31,417 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 16:45:31,435 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 16:45:31,462 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 16:45:33,920 - INFO - 📡 DNS: 192.168.29.209 -> graph.facebook.com
+2025-08-18 16:45:33,943 - INFO - 📡 DNS: 192.168.29.209 -> graph.facebook.com
+2025-08-18 16:45:33,961 - INFO - 📡 DNS: 192.168.29.209 -> graph.facebook.com
+2025-08-18 16:45:34,093 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 16:45:34,109 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 16:45:59,923 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:45:59,947 - INFO - 📡 DNS: 192.168.29.152 -> mask.icloud.com
+2025-08-18 16:45:59,958 - INFO - 📡 DNS: 192.168.29.152 -> 31-courier.push.apple.com
+2025-08-18 16:45:59,980 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:45:59,994 - INFO - 📡 DNS: 192.168.29.152 -> mtalk.google.com
+2025-08-18 16:46:00,010 - INFO - 📡 DNS: 192.168.29.152 -> www.apple.com
+2025-08-18 16:46:00,023 - INFO - 📡 DNS: 192.168.29.152 -> 1-courier.push.apple.com
+2025-08-18 16:46:00,037 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,049 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,071 - INFO - 📡 DNS: 192.168.29.152 -> 1-courier.sandbox.push.apple.com
+2025-08-18 16:46:00,090 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,114 - INFO - 📡 DNS: 192.168.29.152 -> mask.icloud.com
+2025-08-18 16:46:00,131 - INFO - 📡 DNS: 192.168.29.152 -> mtalk.google.com
+2025-08-18 16:46:00,156 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,171 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,190 - INFO - 📡 DNS: 192.168.29.152 -> mtalk.google.com
+2025-08-18 16:46:00,203 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,212 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,224 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,236 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,249 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,266 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,275 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,288 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,305 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,317 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,326 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,337 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,349 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,367 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,377 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,390 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,404 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,420 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,446 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,457 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,470 - INFO - 📡 DNS: 192.168.29.152 -> api.apple-cloudkit.com
+2025-08-18 16:46:00,497 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,550 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,579 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,599 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,654 - INFO - 📡 DNS: 192.168.29.152 -> mtalk.google.com
+2025-08-18 16:46:00,679 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,706 - INFO - 📡 DNS: 192.168.29.152 -> time.asia.apple.com
+2025-08-18 16:46:00,718 - INFO - 📡 DNS: 192.168.29.152 -> mtalk.google.com
+2025-08-18 16:46:00,732 - INFO - 📡 DNS: 192.168.29.152 -> sockjs-us3.pusher.com
+2025-08-18 16:46:00,750 - INFO - 📡 DNS: 192.168.29.152 -> sockjs-us3.pusher.com
+2025-08-18 16:46:00,759 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,778 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,812 - INFO - 📡 DNS: 192.168.29.152 -> mtalk.google.com
+2025-08-18 16:46:00,834 - INFO - 📡 DNS: 192.168.29.152 -> sockjs-us3.pusher.com
+2025-08-18 16:46:00,859 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,876 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:00,980 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:01,081 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 16:46:21,608 - INFO - 📡 DNS: 192.168.29.209 -> apple.com
+2025-08-18 16:46:21,631 - INFO - 📡 DNS: 192.168.29.209 -> apple.com
+2025-08-18 16:46:21,653 - INFO - 📡 DNS: 192.168.29.209 -> graph.whatsapp.com
+2025-08-18 16:46:21,661 - INFO - 📡 DNS: 192.168.29.209 -> dit.whatsapp.net
+2025-08-18 16:46:21,682 - INFO - 📡 DNS: 192.168.29.209 -> dit.whatsapp.net
+2025-08-18 16:46:21,700 - INFO - 📡 DNS: 192.168.29.209 -> graph.whatsapp.com
+2025-08-18 16:46:21,711 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:46:21,722 - INFO - 📡 DNS: 192.168.29.209 -> mmx-ds.cdn.whatsapp.net
+2025-08-18 16:46:21,779 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:46:21,832 - INFO - 📡 DNS: 192.168.29.209 -> whatsapp.com
+2025-08-18 16:46:21,939 - INFO - 📡 DNS: 192.168.29.209 -> g.whatsapp.net
+2025-08-18 16:46:22,029 - INFO - 📡 DNS: 192.168.29.209 -> dit.whatsapp.net
+2025-08-18 16:46:22,080 - INFO - 📡 DNS: 192.168.29.209 -> graph.whatsapp.com
+2025-08-18 16:46:22,201 - INFO - 📡 DNS: 192.168.29.209 -> g.whatsapp.net
+2025-08-18 16:46:32,216 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 16:46:43,111 - INFO - 📡 DNS: 192.168.29.209 -> bbc.gscontxt.net
+2025-08-18 16:46:43,122 - INFO - 📡 DNS: 192.168.29.209 -> bbc.gscontxt.net
+2025-08-18 16:46:43,140 - INFO - 📡 DNS: 192.168.29.209 -> bbc.gscontxt.net
+2025-08-18 16:46:59,510 - INFO - 📡 DNS: 192.168.29.209 -> captive.apple.com
+2025-08-18 16:46:59,522 - INFO - 📡 DNS: 192.168.29.209 -> captive.apple.com
+2025-08-18 16:46:59,549 - INFO - 📡 DNS: 192.168.29.209 -> captive.apple.com
+2025-08-18 16:46:59,826 - INFO - 📡 DNS: 192.168.29.209 -> captive.g.aaplimg.com
+2025-08-18 16:47:10,159 - INFO - 📡 DNS: 192.168.29.209 -> ds-global3.l7.search.ystg1.b.yahoo.com
+2025-08-18 16:47:10,179 - INFO - 📡 DNS: 192.168.29.209 -> ds-global3.l7.search.ystg1.b.yahoo.com
+2025-08-18 16:47:12,798 - INFO - 📡 DNS: 192.168.29.209 -> api-safari-aaps1b.smoot.apple.com
+2025-08-18 16:47:12,811 - INFO - 📡 DNS: 192.168.29.209 -> api-safari-aaps1b.smoot.apple.com
+2025-08-18 16:47:12,827 - INFO - 📡 DNS: 192.168.29.209 -> api-safari-aaps1b.smoot.apple.com
+2025-08-18 16:47:12,853 - INFO - 📡 DNS: 192.168.29.209 -> smoot-api-safari-aaps1b.v.aaplimg.com
+2025-08-18 16:47:12,867 - INFO - 📡 DNS: 192.168.29.209 -> smoot-api-safari-aaps1b.v.aaplimg.com
+2025-08-18 16:47:30,217 - INFO - 📡 DNS: 192.168.29.209 -> clients1.google.com
+2025-08-18 16:47:30,231 - INFO - 📡 DNS: 192.168.29.209 -> clients1.google.com
+2025-08-18 16:47:30,250 - INFO - 📡 DNS: 192.168.29.209 -> clients1.google.com
+2025-08-18 16:47:30,302 - INFO - 📡 DNS: 192.168.29.209 -> clients.l.google.com
+2025-08-18 16:47:31,456 - INFO - 📡 DNS: 192.168.29.209 -> puma.com
+2025-08-18 16:47:31,474 - INFO - 📡 DNS: 192.168.29.209 -> puma.com
+2025-08-18 16:47:31,491 - INFO - 📡 DNS: 192.168.29.209 -> puma.com
+2025-08-18 16:47:31,750 - INFO - 📡 DNS: 192.168.29.209 -> in.puma.com
+2025-08-18 16:47:31,769 - INFO - 📡 DNS: 192.168.29.209 -> in.puma.com
+2025-08-18 16:47:31,786 - INFO - 📡 DNS: 192.168.29.209 -> in.puma.com
+2025-08-18 16:47:32,059 - INFO - 📡 DNS: 192.168.29.209 -> rapid-1.yottaa.net
+2025-08-18 16:47:32,075 - INFO - 📡 DNS: 192.168.29.209 -> rapid-1.yottaa.net
+2025-08-18 16:47:32,092 - INFO - 📡 DNS: 192.168.29.209 -> rapid-1.yottaa.net
+2025-08-18 16:47:32,142 - INFO - 📡 DNS: 192.168.29.209 -> a03bd531e8ce9952c.awsglobalaccelerator.com
+2025-08-18 16:47:32,162 - INFO - 📡 DNS: 192.168.29.209 -> a03bd531e8ce9952c.awsglobalaccelerator.com
+2025-08-18 16:47:32,512 - INFO - 📡 DNS: 192.168.29.209 -> cdn.sanity.io
+2025-08-18 16:47:32,522 - INFO - 📡 DNS: 192.168.29.209 -> cdn.sanity.io
+2025-08-18 16:47:32,546 - INFO - 📡 DNS: 192.168.29.209 -> stm.puma.com
+2025-08-18 16:47:32,562 - INFO - 📡 DNS: 192.168.29.209 -> stm.puma.com
+2025-08-18 16:47:32,594 - INFO - 📡 DNS: 192.168.29.209 -> images.puma.com
+2025-08-18 16:47:32,616 - INFO - 📡 DNS: 192.168.29.209 -> www.googletagmanager.com
+2025-08-18 16:47:32,626 - INFO - 📡 DNS: 192.168.29.209 -> stm.puma.com
+2025-08-18 16:47:32,642 - INFO - 📡 DNS: 192.168.29.209 -> cdn.sanity.io
+2025-08-18 16:47:32,668 - INFO - 📡 DNS: 192.168.29.209 -> cdn.i.sanity.io
+2025-08-18 16:47:32,690 - INFO - 📡 DNS: 192.168.29.209 -> images.puma.com
+2025-08-18 16:47:32,717 - INFO - 📡 DNS: 192.168.29.209 -> cdn.i.sanity.io
+2025-08-18 16:47:32,742 - INFO - 📡 DNS: 192.168.29.209 -> images.puma.com
+2025-08-18 16:47:32,753 - INFO - 📡 DNS: 192.168.29.209 -> www.googletagmanager.com
+2025-08-18 16:47:32,774 - INFO - 📡 DNS: 192.168.29.209 -> www.googletagmanager.com
+2025-08-18 16:47:32,823 - INFO - 📡 DNS: 192.168.29.209 -> s2-cloudinary-pin.map.fastly.net
+2025-08-18 16:47:32,873 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:47:32,892 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:47:32,905 - INFO - 📡 DNS: 192.168.29.209 -> mask.icloud.com
+2025-08-18 16:47:32,938 - INFO - 📡 DNS: 192.168.29.209 -> mask.apple-dns.net
+2025-08-18 16:47:33,518 - INFO - 📡 DNS: 192.168.29.209 -> mask-api.icloud.com
+2025-08-18 16:47:33,531 - INFO - 📡 DNS: 192.168.29.209 -> mask-api.icloud.com
+2025-08-18 16:47:33,547 - INFO - 📡 DNS: 192.168.29.209 -> _dns.resolver.arpa
+2025-08-18 16:47:33,567 - INFO - 📡 DNS: 192.168.29.209 -> mask-api.icloud.com
+2025-08-18 16:47:33,581 - INFO - 📡 DNS: 192.168.29.209 -> mask-api.fe2.apple-dns.net
+2025-08-18 16:47:33,634 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:47:33,651 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:47:33,664 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:47:33,681 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:47:33,700 - INFO - 📡 DNS: 192.168.29.209 -> q.quora.com
+2025-08-18 16:47:33,715 - INFO - 📡 DNS: 192.168.29.209 -> dns.google
+2025-08-18 16:47:33,743 - INFO - 📡 DNS: 192.168.29.209 -> q.quora.com
+2025-08-18 16:47:33,770 - INFO - 📡 DNS: 192.168.29.209 -> q.quora.com
+2025-08-18 16:47:33,787 - INFO - 📡 DNS: 192.168.29.209 -> q.quora.com.cdn.cloudflare.net
+2025-08-18 16:47:33,823 - INFO - 📡 DNS: 192.168.29.209 -> q.quora.com.cdn.cloudflare.net
+2025-08-18 16:47:34,209 - INFO - 📡 DNS: 192.168.29.209 -> qoe-1.yottaa.net
+2025-08-18 16:47:34,224 - INFO - 📡 DNS: 192.168.29.209 -> analytics.google.com
+2025-08-18 16:47:34,238 - INFO - 📡 DNS: 192.168.29.209 -> googleads.g.doubleclick.net
+2025-08-18 16:47:34,250 - INFO - 📡 DNS: 192.168.29.209 -> widgets.retailstores.in.puma.com
+2025-08-18 16:47:34,263 - INFO - 📡 DNS: 192.168.29.209 -> widgets.retailstores.in.puma.com
+2025-08-18 16:47:34,274 - INFO - 📡 DNS: 192.168.29.209 -> a0540a066b92ce4ca.awsglobalaccelerator.com
+2025-08-18 16:47:34,283 - INFO - 📡 DNS: 192.168.29.209 -> widgets.retailstores.in.puma.com
+2025-08-18 16:47:34,302 - INFO - 📡 DNS: 192.168.29.209 -> analytics.google.com
+2025-08-18 16:47:34,311 - INFO - 📡 DNS: 192.168.29.209 -> qoe-1.yottaa.net
+2025-08-18 16:47:34,322 - INFO - 📡 DNS: 192.168.29.209 -> retailstores.in.puma.com
+2025-08-18 16:47:34,335 - INFO - 📡 DNS: 192.168.29.209 -> cdn.branch.io
+2025-08-18 16:47:34,343 - INFO - 📡 DNS: 192.168.29.209 -> cdn.branch.io
+2025-08-18 16:47:34,354 - INFO - 📡 DNS: 192.168.29.209 -> analytics.google.com
+2025-08-18 16:47:34,364 - INFO - 📡 DNS: 192.168.29.209 -> googleads.g.doubleclick.net
+2025-08-18 16:47:34,372 - INFO - 📡 DNS: 192.168.29.209 -> pumaindia.api.useinsider.com
+2025-08-18 16:47:34,383 - INFO - 📡 DNS: 192.168.29.209 -> pumaindia.api.useinsider.com
+2025-08-18 16:47:34,398 - INFO - 📡 DNS: 192.168.29.209 -> pumaindia.api.useinsider.com
+2025-08-18 16:47:34,408 - INFO - 📡 DNS: 192.168.29.209 -> www.google.co.in
+2025-08-18 16:47:34,418 - INFO - 📡 DNS: 192.168.29.209 -> ct.pinterest.com
+2025-08-18 16:47:34,432 - INFO - 📡 DNS: 192.168.29.209 -> ct.pinterest.com
+2025-08-18 16:47:34,440 - INFO - 📡 DNS: 192.168.29.209 -> retailstores.in.puma.com
+2025-08-18 16:47:34,452 - INFO - 📡 DNS: 192.168.29.209 -> bat.bing.com
+2025-08-18 16:47:34,462 - INFO - 📡 DNS: 192.168.29.209 -> asia.creativecdn.com
+2025-08-18 16:47:34,471 - INFO - 📡 DNS: 192.168.29.209 -> a0540a066b92ce4ca.awsglobalaccelerator.com
+2025-08-18 16:47:34,481 - INFO - 📡 DNS: 192.168.29.209 -> p-eu.brsrvr.com
+2025-08-18 16:47:34,490 - INFO - 📡 DNS: 192.168.29.209 -> a.quora.com
+2025-08-18 16:47:34,501 - INFO - 📡 DNS: 192.168.29.209 -> t.makehook.ws
+2025-08-18 16:47:34,514 - INFO - 📡 DNS: 192.168.29.209 -> t.makehook.ws
+2025-08-18 16:47:34,526 - INFO - 📡 DNS: 192.168.29.209 -> ct.pinterest.com
+2025-08-18 16:47:34,541 - INFO - 📡 DNS: 192.168.29.209 -> a.quora.com
+2025-08-18 16:47:34,552 - INFO - 📡 DNS: 192.168.29.209 -> www.google.co.in
+2025-08-18 16:47:34,566 - INFO - 📡 DNS: 192.168.29.209 -> www.googleadservices.com
+2025-08-18 16:47:34,575 - INFO - 📡 DNS: 192.168.29.209 -> sc-static.net
+2025-08-18 16:47:34,584 - INFO - 📡 DNS: 192.168.29.209 -> bat-bing-com.ax-0001.ax-msedge.net
+2025-08-18 16:47:34,595 - INFO - 📡 DNS: 192.168.29.209 -> tybfxw.puma.com
+2025-08-18 16:47:34,603 - INFO - 📡 DNS: 192.168.29.209 -> sc-static.net
+2025-08-18 16:47:34,614 - INFO - 📡 DNS: 192.168.29.209 -> cdn.quantummetric.com
+2025-08-18 16:47:34,622 - INFO - 📡 DNS: 192.168.29.209 -> bam.nr-data.net
+2025-08-18 16:47:34,630 - INFO - 📡 DNS: 192.168.29.209 -> a.quora.com
+2025-08-18 16:47:34,642 - INFO - 📡 DNS: 192.168.29.209 -> ax-0001.ax-msedge.net
+2025-08-18 16:47:34,651 - INFO - 📡 DNS: 192.168.29.209 -> trc.taboola.com
+2025-08-18 16:47:34,665 - INFO - 📡 DNS: 192.168.29.209 -> cdn.branch.io
+2025-08-18 16:47:34,677 - INFO - 📡 DNS: 192.168.29.209 -> www.clarity.ms
+2025-08-18 16:47:34,740 - INFO - 📡 DNS: 192.168.29.209 -> a.quora.com.cdn.cloudflare.net
+2025-08-18 16:47:34,763 - INFO - 📡 DNS: 192.168.29.209 -> api.retailstores.in.puma.com
+2025-08-18 16:47:34,787 - INFO - 📡 DNS: 192.168.29.209 -> bat.bing.com
+2025-08-18 16:47:34,811 - INFO - 📡 DNS: 192.168.29.209 -> ingesteu.quantummetric.com
+2025-08-18 16:47:34,834 - INFO - 📡 DNS: 192.168.29.209 -> hit.api.useinsider.com
+2025-08-18 16:47:34,851 - INFO - 📡 DNS: 192.168.29.209 -> www.mczbf.com
+2025-08-18 16:47:34,867 - INFO - 📡 DNS: 192.168.29.209 -> www.googleadservices.com
+2025-08-18 16:47:34,877 - INFO - 📡 DNS: 192.168.29.209 -> gum.sg1.vip.prod.criteo.com
+2025-08-18 16:47:34,893 - INFO - 📡 DNS: 192.168.29.209 -> eitri.api.useinsider.com
+2025-08-18 16:47:34,902 - INFO - 📡 DNS: 192.168.29.209 -> a.quora.com.cdn.cloudflare.net
+2025-08-18 16:47:34,916 - INFO - 📡 DNS: 192.168.29.209 -> dcjdc5qmbbux7.cloudfront.net
+2025-08-18 16:47:34,928 - INFO - 📡 DNS: 192.168.29.209 -> hit.api.useinsider.com
+2025-08-18 16:47:34,938 - INFO - 📡 DNS: 192.168.29.209 -> asia.creativecdn.com
+2025-08-18 16:47:34,954 - INFO - 📡 DNS: 192.168.29.209 -> cdn.taboola.com
+2025-08-18 16:47:34,964 - INFO - 📡 DNS: 192.168.29.209 -> www.googleadservices.com
+2025-08-18 16:47:34,979 - INFO - 📡 DNS: 192.168.29.209 -> in1.clevertap-prod.com
+2025-08-18 16:47:34,996 - INFO - 📡 DNS: 192.168.29.209 -> tybfxw.puma.com
+2025-08-18 16:47:35,010 - INFO - 📡 DNS: 192.168.29.209 -> tls13.taboola.map.fastly.net
+2025-08-18 16:47:35,022 - INFO - 📡 DNS: 192.168.29.209 -> eitri.api.useinsider.com
+2025-08-18 16:47:35,038 - INFO - 📡 DNS: 192.168.29.209 -> asia.creativecdn.com
+2025-08-18 16:47:35,051 - INFO - 📡 DNS: 192.168.29.209 -> hit.api.useinsider.com
+2025-08-18 16:47:35,070 - INFO - 📡 DNS: 192.168.29.209 -> www.mczbf.com
+2025-08-18 16:47:35,081 - INFO - 📡 DNS: 192.168.29.209 -> api.retailstores.in.puma.com
+2025-08-18 16:47:35,095 - INFO - 📡 DNS: 192.168.29.209 -> tybfxw.puma.com
+2025-08-18 16:47:35,106 - INFO - 📡 DNS: 192.168.29.209 -> api2.branch.io
+2025-08-18 16:47:35,121 - INFO - 📡 DNS: 192.168.29.209 -> eitri.api.useinsider.com
+2025-08-18 16:47:35,140 - INFO - 📡 DNS: 192.168.29.209 -> qoe-1.yottaa.net
+2025-08-18 16:47:35,155 - INFO - 📡 DNS: 192.168.29.209 -> hspx.hotstar.com
+2025-08-18 16:47:35,170 - INFO - 📡 DNS: 192.168.29.209 -> www.mczbf.com
+2025-08-18 16:47:35,183 - INFO - 📡 DNS: 192.168.29.209 -> rt.udmserve.net
+2025-08-18 16:47:35,198 - INFO - 📡 DNS: 192.168.29.209 -> rt.udmserve.net
+2025-08-18 16:47:35,210 - INFO - 📡 DNS: 192.168.29.209 -> googleads.g.doubleclick.net
+2025-08-18 16:47:35,228 - INFO - 📡 DNS: 192.168.29.209 -> cdn.quantummetric.com
+2025-08-18 16:47:35,239 - INFO - 📡 DNS: 192.168.29.209 -> e35862.dscj.akamaiedge.net
+2025-08-18 16:47:35,257 - INFO - 📡 DNS: 192.168.29.209 -> hspx.hotstar.com
+2025-08-18 16:47:35,272 - INFO - 📡 DNS: 192.168.29.209 -> analytics-alv.google.com
+2025-08-18 16:47:35,284 - INFO - 📡 DNS: 192.168.29.209 -> api.retailstores.in.puma.com
+2025-08-18 16:47:35,307 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com
+2025-08-18 16:47:35,328 - INFO - 📡 DNS: 192.168.29.209 -> www.google.co.in
+2025-08-18 16:47:35,337 - INFO - 📡 DNS: 192.168.29.209 -> googleads.g.doubleclick.net
+2025-08-18 16:47:35,351 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com
+2025-08-18 16:47:35,368 - INFO - 📡 DNS: 192.168.29.209 -> rt.udmserve.net
+2025-08-18 16:47:35,381 - INFO - 📡 DNS: 192.168.29.209 -> cdn.taboola.com
+2025-08-18 16:47:35,405 - INFO - 📡 DNS: 192.168.29.209 -> ad.doubleclick.net
+2025-08-18 16:47:35,420 - INFO - 📡 DNS: 192.168.29.209 -> p-eu.brsrvr.com
+2025-08-18 16:47:35,433 - INFO - 📡 DNS: 192.168.29.209 -> ad.doubleclick.net
+2025-08-18 16:47:35,452 - INFO - 📡 DNS: 192.168.29.209 -> sslwidget.criteo.com
+2025-08-18 16:47:35,470 - INFO - 📡 DNS: 192.168.29.209 -> p-eu.brsrvr.com
+2025-08-18 16:47:35,481 - INFO - 📡 DNS: 192.168.29.209 -> ad.doubleclick.net
+2025-08-18 16:47:35,499 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com.3a12281d.cdnhwcohm19.com
+2025-08-18 16:47:35,510 - INFO - 📡 DNS: 192.168.29.209 -> bat.bing.com
+2025-08-18 16:47:35,526 - INFO - 📡 DNS: 192.168.29.209 -> hspx.hotstar.com
+2025-08-18 16:47:35,537 - INFO - 📡 DNS: 192.168.29.209 -> api2.branch.io
+2025-08-18 16:47:35,563 - INFO - 📡 DNS: 192.168.29.209 -> sslwidget.criteo.com
+2025-08-18 16:47:35,576 - INFO - 📡 DNS: 192.168.29.209 -> sslwidget.criteo.com
+2025-08-18 16:47:35,589 - INFO - 📡 DNS: 192.168.29.209 -> www.clarity.ms
+2025-08-18 16:47:35,605 - INFO - 📡 DNS: 192.168.29.209 -> sc-static.net
+2025-08-18 16:47:35,621 - INFO - 📡 DNS: 192.168.29.209 -> bam.nr-data.net
+2025-08-18 16:47:35,631 - INFO - 📡 DNS: 192.168.29.209 -> tr.snapchat.com
+2025-08-18 16:47:35,644 - INFO - 📡 DNS: 192.168.29.209 -> widget.sg1.vip.prod.criteo.com
+2025-08-18 16:47:35,656 - INFO - 📡 DNS: 192.168.29.209 -> tr.snapchat.com
+2025-08-18 16:47:35,671 - INFO - 📡 DNS: 192.168.29.209 -> 2-01-37d2-0018.cdx.cedexis.net
+2025-08-18 16:47:35,681 - INFO - 📡 DNS: 192.168.29.209 -> connect.facebook.net
+2025-08-18 16:47:35,694 - INFO - 📡 DNS: 192.168.29.209 -> fastly-tls12-bam.nr-data.net
+2025-08-18 16:47:35,708 - INFO - 📡 DNS: 192.168.29.209 -> widget.sg1.vip.prod.criteo.com
+2025-08-18 16:47:35,719 - INFO - 📡 DNS: 192.168.29.209 -> api.goswirl.live
+2025-08-18 16:47:35,735 - INFO - 📡 DNS: 192.168.29.209 -> secure-media.hotstar.com
+2025-08-18 16:47:35,747 - INFO - 📡 DNS: 192.168.29.209 -> scontent.xx.fbcdn.net
+2025-08-18 16:47:35,760 - INFO - 📡 DNS: 192.168.29.209 -> e6449.a.akamaiedge.net
+2025-08-18 16:47:35,774 - INFO - 📡 DNS: 192.168.29.209 -> 9081776.fls.doubleclick.net
+2025-08-18 16:47:35,786 - INFO - 📡 DNS: 192.168.29.209 -> connect.facebook.net
+2025-08-18 16:47:35,797 - INFO - 📡 DNS: 192.168.29.209 -> api.goswirl.live
+2025-08-18 16:47:35,812 - INFO - 📡 DNS: 192.168.29.209 -> hcdnw119.ovc.v6.new.insider.cdnhwcuim119.com
+2025-08-18 16:47:35,827 - INFO - 📡 DNS: 192.168.29.209 -> scontent.xx.fbcdn.net
+2025-08-18 16:47:35,839 - INFO - 📡 DNS: 192.168.29.209 -> secure-media.hotstar.com
+2025-08-18 16:47:35,853 - INFO - 📡 DNS: 192.168.29.209 -> scontent.fallback.xx.fbcdn.net
+2025-08-18 16:47:35,864 - INFO - 📡 DNS: 192.168.29.209 -> p-eu.brsrvr.com
+2025-08-18 16:47:35,874 - INFO - 📡 DNS: 192.168.29.209 -> scontent.fallback.xx.fbcdn.net
+2025-08-18 16:47:35,885 - INFO - 📡 DNS: 192.168.29.209 -> api2.branch.io
+2025-08-18 16:47:35,903 - INFO - 📡 DNS: 192.168.29.209 -> e6449.a.akamaiedge.net
+2025-08-18 16:47:35,913 - INFO - 📡 DNS: 192.168.29.209 -> in1.clevertap-prod.com
+2025-08-18 16:47:35,928 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com
+2025-08-18 16:47:35,938 - INFO - 📡 DNS: 192.168.29.209 -> c.clarity.ms
+2025-08-18 16:47:35,949 - INFO - 📡 DNS: 192.168.29.209 -> cdn.taboola.com
+2025-08-18 16:47:35,959 - INFO - 📡 DNS: 192.168.29.209 -> hspx.hotstar.com
+2025-08-18 16:47:35,973 - INFO - 📡 DNS: 192.168.29.209 -> cdn.quantummetric.com
+2025-08-18 16:47:35,983 - INFO - 📡 DNS: 192.168.29.209 -> connect.facebook.net
+2025-08-18 16:47:35,994 - INFO - 📡 DNS: 192.168.29.209 -> q.clarity.ms
+2025-08-18 16:47:36,005 - INFO - 📡 DNS: 192.168.29.209 -> q.clarity.ms
+2025-08-18 16:47:36,015 - INFO - 📡 DNS: 192.168.29.209 -> q.clarity.ms
+2025-08-18 16:47:36,028 - INFO - 📡 DNS: 192.168.29.209 -> a1810.dscf1.akamai.net
+2025-08-18 16:47:36,038 - INFO - 📡 DNS: 192.168.29.209 -> trc.taboola.com
+2025-08-18 16:47:36,048 - INFO - 📡 DNS: 192.168.29.209 -> ingesteu.quantummetric.com
+2025-08-18 16:47:36,058 - INFO - 📡 DNS: 192.168.29.209 -> clarity-ingest-eus-b-sc.eastus.cloudapp.azure.com
+2025-08-18 16:47:36,073 - INFO - 📡 DNS: 192.168.29.209 -> analytics-alv.google.com
+2025-08-18 16:47:36,083 - INFO - 📡 DNS: 192.168.29.209 -> bat.bing.com
+2025-08-18 16:47:36,103 - INFO - 📡 DNS: 192.168.29.209 -> 9081776.fls.doubleclick.net
+2025-08-18 16:47:36,113 - INFO - 📡 DNS: 192.168.29.209 -> api2.branch.io
+2025-08-18 16:47:36,122 - INFO - 📡 DNS: 192.168.29.209 -> ingesteu.quantummetric.com
+2025-08-18 16:47:36,135 - INFO - 📡 DNS: 192.168.29.209 -> ingesteu.quantummetric.com
+2025-08-18 16:47:36,148 - INFO - 📡 DNS: 192.168.29.209 -> pips.taboola.com
+2025-08-18 16:47:36,157 - INFO - 📡 DNS: 192.168.29.209 -> pips.taboola.com
+2025-08-18 16:47:36,168 - INFO - 📡 DNS: 192.168.29.209 -> pips.taboola.com
+2025-08-18 16:47:36,178 - INFO - 📡 DNS: 192.168.29.209 -> clarity-ingest-eus-b-sc.eastus.cloudapp.azure.com
+2025-08-18 16:47:36,190 - INFO - 📡 DNS: 192.168.29.209 -> cdn.quantummetric.com
+2025-08-18 16:47:36,200 - INFO - 📡 DNS: 192.168.29.209 -> cdnjs.cloudflare.com
+2025-08-18 16:47:36,208 - INFO - 📡 DNS: 192.168.29.209 -> t.makehook.ws
+2025-08-18 16:47:36,226 - INFO - 📡 DNS: 192.168.29.209 -> www.facebook.com
+2025-08-18 16:47:36,240 - INFO - 📡 DNS: 192.168.29.209 -> trc.taboola.com
+2025-08-18 16:47:36,253 - INFO - 📡 DNS: 192.168.29.209 -> tr.snapchat.com
+2025-08-18 16:47:36,265 - INFO - 📡 DNS: 192.168.29.209 -> in1.clevertap-prod.com
+2025-08-18 16:47:36,276 - INFO - 📡 DNS: 192.168.29.209 -> www.facebook.com
+2025-08-18 16:47:36,286 - INFO - 📡 DNS: 192.168.29.209 -> www.clarity.ms
+2025-08-18 16:47:36,298 - INFO - 📡 DNS: 192.168.29.209 -> www.facebook.com
+2025-08-18 16:47:36,311 - INFO - 📡 DNS: 192.168.29.209 -> gcp.api.sc-gw.com
+2025-08-18 16:47:36,320 - INFO - 📡 DNS: 192.168.29.209 -> 2-01-37d2-0018.cdx.cedexis.net
+2025-08-18 16:47:36,331 - INFO - 📡 DNS: 192.168.29.209 -> c.bing.com
+2025-08-18 16:47:36,344 - INFO - 📡 DNS: 192.168.29.209 -> trc.taboola.com
+2025-08-18 16:47:36,357 - INFO - 📡 DNS: 192.168.29.209 -> 9081776.fls.doubleclick.net
+2025-08-18 16:47:36,367 - INFO - 📡 DNS: 192.168.29.209 -> api.goswirl.live
+2025-08-18 16:47:36,377 - INFO - 📡 DNS: 192.168.29.209 -> cds.taboola.com
+2025-08-18 16:47:36,387 - INFO - 📡 DNS: 192.168.29.209 -> analytics-alv.google.com
+2025-08-18 16:47:36,397 - INFO - 📡 DNS: 192.168.29.209 -> cds.taboola.com
+2025-08-18 16:47:36,408 - INFO - 📡 DNS: 192.168.29.209 -> dart.l.doubleclick.net
+2025-08-18 16:47:36,421 - INFO - 📡 DNS: 192.168.29.209 -> c-bing-com.ax-0001.ax-msedge.net
+2025-08-18 16:47:36,436 - INFO - 📡 DNS: 192.168.29.209 -> tr6.snapchat.com
+2025-08-18 16:47:36,447 - INFO - 📡 DNS: 192.168.29.209 -> us-cds.taboola.com
+2025-08-18 16:47:36,456 - INFO - 📡 DNS: 192.168.29.209 -> dart.l.doubleclick.net
+2025-08-18 16:47:36,466 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:47:36,481 - INFO - 📡 DNS: 192.168.29.209 -> connect.facebook.net
+2025-08-18 16:47:36,489 - INFO - 📡 DNS: 192.168.29.209 -> web-image.useinsider.com
+2025-08-18 16:47:36,498 - INFO - 📡 DNS: 192.168.29.209 -> tls13.taboola.map.fastly.net
+2025-08-18 16:47:36,509 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 16:47:36,520 - INFO - 📡 DNS: 192.168.29.209 -> usc1-gcp-v61.api.sc-gw.com
+2025-08-18 16:47:36,533 - INFO - 📡 DNS: 192.168.29.209 -> pixel-lb-1641086380.eu-west-1.elb.amazonaws.com
+2025-08-18 16:47:36,542 - INFO - 📡 DNS: 192.168.29.209 -> trc.taboola.com
+2025-08-18 16:47:36,550 - INFO - 📡 DNS: 192.168.29.209 -> bam.nr-data.net
+2025-08-18 16:47:36,563 - INFO - 📡 DNS: 192.168.29.209 -> sslwidget.criteo.com
+2025-08-18 16:47:36,570 - INFO - 📡 DNS: 192.168.29.209 -> www.clarity.ms
+2025-08-18 16:47:36,579 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:47:36,599 - INFO - 📡 DNS: 192.168.29.209 -> fastly-tls12-bam.nr-data.net
+2025-08-18 16:47:36,610 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 16:47:36,620 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.c10r.facebook.com
+2025-08-18 16:47:36,628 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.c10r.facebook.com
+2025-08-18 16:47:36,639 - INFO - 📡 DNS: 192.168.29.209 -> dualstack.tls13.taboola.map.fastly.net
+2025-08-18 16:47:36,657 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:47:36,673 - INFO - 📡 DNS: 192.168.29.209 -> sc-static.net
+2025-08-18 16:47:36,684 - INFO - 📡 DNS: 192.168.29.209 -> www.google.co.in
+2025-08-18 16:47:36,691 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:47:36,705 - INFO - 📡 DNS: 192.168.29.209 -> shed.dual-low.s-part-0044.t-0009.t-msedge.net
+2025-08-18 16:47:36,714 - INFO - 📡 DNS: 192.168.29.209 -> c.clarity.ms
+2025-08-18 16:47:36,723 - INFO - 📡 DNS: 192.168.29.209 -> cdnjs.cloudflare.com
+2025-08-18 16:47:36,731 - INFO - 📡 DNS: 192.168.29.209 -> t.makehook.ws
+2025-08-18 16:47:36,743 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:47:36,759 - INFO - 📡 DNS: 192.168.29.209 -> www.clarity.ms
+2025-08-18 16:47:36,773 - INFO - 📡 DNS: 192.168.29.209 -> secure-media.hotstar.com
+2025-08-18 16:47:36,784 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:47:36,805 - INFO - 📡 DNS: 192.168.29.209 -> gcp.api.sc-gw.com
+2025-08-18 16:47:36,815 - INFO - 📡 DNS: 192.168.29.209 -> shed.dual-low.s-part-0044.t-0009.t-msedge.net
+2025-08-18 16:47:36,823 - INFO - 📡 DNS: 192.168.29.209 -> cdnjs.cloudflare.com
+2025-08-18 16:47:36,834 - INFO - 📡 DNS: 192.168.29.209 -> ingesteu.quantummetric.com
+2025-08-18 16:47:36,844 - INFO - 📡 DNS: 192.168.29.209 -> adservice.google.com
+2025-08-18 16:47:36,857 - INFO - 📡 DNS: 192.168.29.209 -> adservice.google.com
+2025-08-18 16:47:36,866 - INFO - 📡 DNS: 192.168.29.209 -> 9526535.fls.doubleclick.net
+2025-08-18 16:47:36,875 - INFO - 📡 DNS: 192.168.29.209 -> adservice.google.com
+2025-08-18 16:47:36,884 - INFO - 📡 DNS: 192.168.29.209 -> pixel-lb-1641086380.eu-west-1.elb.amazonaws.com
+2025-08-18 16:47:36,894 - INFO - 📡 DNS: 192.168.29.209 -> 9526535.fls.doubleclick.net
+2025-08-18 16:47:36,912 - INFO - 📡 DNS: 192.168.29.209 -> pixel-lb-1641086380.eu-west-1.elb.amazonaws.com
+2025-08-18 16:47:36,936 - INFO - 📡 DNS: 192.168.29.209 -> c.bing.com
+2025-08-18 16:47:36,950 - INFO - 📡 DNS: 192.168.29.209 -> s-part-0044.t-0009.t-msedge.net
+2025-08-18 16:47:36,960 - INFO - 📡 DNS: 192.168.29.209 -> sslwidget.criteo.com
+2025-08-18 16:47:36,971 - INFO - 📡 DNS: 192.168.29.209 -> cds.taboola.com
+2025-08-18 16:47:36,986 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:47:37,014 - INFO - 📡 DNS: 192.168.29.209 -> c.clarity.ms
+2025-08-18 16:47:37,025 - INFO - 📡 DNS: 192.168.29.209 -> us-cds.taboola.com
+2025-08-18 16:47:37,035 - INFO - 📡 DNS: 192.168.29.209 -> c.bing.com
+2025-08-18 16:47:37,061 - INFO - 📡 DNS: 192.168.29.209 -> sslwidget.criteo.com
+2025-08-18 16:47:37,081 - INFO - 📡 DNS: 192.168.29.209 -> x.bidswitch.net
+2025-08-18 16:47:37,113 - INFO - 📡 DNS: 192.168.29.209 -> x.bidswitch.net
+2025-08-18 16:47:37,130 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:47:37,140 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:47:37,150 - INFO - 📡 DNS: 192.168.29.209 -> user-data-apac-jp.bidswitch.net
+2025-08-18 16:47:37,158 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:47:37,174 - INFO - 📡 DNS: 192.168.29.209 -> simage2.pubmatic.com
+2025-08-18 16:47:37,182 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.com
+2025-08-18 16:47:37,191 - INFO - 📡 DNS: 192.168.29.209 -> user-data-apac-jp.bidswitch.net
+2025-08-18 16:47:37,200 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:47:37,211 - INFO - 📡 DNS: 192.168.29.209 -> contextual.media.net
+2025-08-18 16:47:37,225 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:47:37,236 - INFO - 📡 DNS: 192.168.29.209 -> cm.g.doubleclick.net
+2025-08-18 16:47:37,253 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync.smartadserver.com
+2025-08-18 16:47:37,262 - INFO - 📡 DNS: 192.168.29.209 -> eb2.3lift.com
+2025-08-18 16:47:37,280 - INFO - 📡 DNS: 192.168.29.209 -> fp1.ads.stickyadstv.com.akadns.net
+2025-08-18 16:47:37,287 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync.smartadserver.com
+2025-08-18 16:47:37,306 - INFO - 📡 DNS: 192.168.29.209 -> cm.g.doubleclick.net
+2025-08-18 16:47:37,315 - INFO - 📡 DNS: 192.168.29.209 -> as-eb2.3lift.com
+2025-08-18 16:47:37,328 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.net.akadns.net
+2025-08-18 16:47:37,340 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:47:37,358 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync.smartadserver.com
+2025-08-18 16:47:37,375 - INFO - 📡 DNS: 192.168.29.209 -> eb2.3lift.com
+2025-08-18 16:47:37,386 - INFO - 📡 DNS: 192.168.29.209 -> urlbird.nitrocommerce.ai
+2025-08-18 16:47:37,395 - INFO - 📡 DNS: 192.168.29.209 -> fp1.ads.stickyadstv.com.akadns.net
+2025-08-18 16:47:37,461 - INFO - 📡 DNS: 192.168.29.209 -> x.bidswitch.net
+2025-08-18 16:47:37,492 - INFO - 📡 DNS: 192.168.29.209 -> bam.nr-data.net
+2025-08-18 16:47:37,526 - INFO - 📡 DNS: 192.168.29.209 -> tr6.snapchat.com
+2025-08-18 16:47:37,550 - INFO - 📡 DNS: 192.168.29.209 -> contextual.media.net
+2025-08-18 16:47:37,576 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:47:37,604 - INFO - 📡 DNS: 192.168.29.209 -> mug.criteo.com
+2025-08-18 16:47:37,636 - INFO - 📡 DNS: 192.168.29.209 -> mug.criteo.com
+2025-08-18 16:47:37,671 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:47:37,695 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:47:37,713 - INFO - 📡 DNS: 192.168.29.209 -> mug.sg1.vip.prod.criteo.com
+2025-08-18 16:47:37,731 - INFO - 📡 DNS: 192.168.29.209 -> outbrain.map.fastly.net
+2025-08-18 16:47:37,744 - INFO - 📡 DNS: 192.168.29.209 -> in1.clevertap-prod.com
+2025-08-18 16:47:37,759 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:47:37,772 - INFO - 📡 DNS: 192.168.29.209 -> mug.criteo.com
+2025-08-18 16:47:37,779 - INFO - 📡 DNS: 192.168.29.209 -> bam.nr-data.net
+2025-08-18 16:47:37,792 - INFO - 📡 DNS: 192.168.29.209 -> sync.1rx.io
+2025-08-18 16:47:37,834 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:47:37,846 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync-apac1.smartadserver.com
+2025-08-18 16:47:37,855 - INFO - 📡 DNS: 192.168.29.209 -> apse1-ssp-prod-syncweb-alb-1135453511.ap-southeast-1.elb.amazonaws.com
+2025-08-18 16:47:37,865 - INFO - 📡 DNS: 192.168.29.209 -> gcp.api.sc-gw.com
+2025-08-18 16:47:37,876 - INFO - 📡 DNS: 192.168.29.209 -> 9526535.fls.doubleclick.net
+2025-08-18 16:47:37,889 - INFO - 📡 DNS: 192.168.29.209 -> sync.1rx.io
+2025-08-18 16:47:38,290 - INFO - 📡 DNS: 192.168.29.209 -> mug.sg1.vip.prod.criteo.com
+2025-08-18 16:47:38,477 - INFO - 📡 DNS: 192.168.29.209 -> eb2.3lift.com
+2025-08-18 16:47:38,502 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync-apac1.smartadserver.com
+2025-08-18 16:47:38,519 - INFO - 📡 DNS: 192.168.29.209 -> tg.dr.socdm.com
+2025-08-18 16:47:38,538 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:47:38,552 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:47:38,568 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:47:38,583 - INFO - 📡 DNS: 192.168.29.209 -> tls13.taboola.map.fastly.net
+2025-08-18 16:47:38,596 - INFO - 📡 DNS: 192.168.29.209 -> as-eb2.3lift.com
+2025-08-18 16:47:38,616 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:47:38,629 - INFO - 📡 DNS: 192.168.29.209 -> cm.g.doubleclick.net
+2025-08-18 16:47:38,642 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:47:38,658 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:47:38,672 - INFO - 📡 DNS: 192.168.29.209 -> apse1-ssp-prod-syncweb-alb-1135453511.ap-southeast-1.elb.amazonaws.com
+2025-08-18 16:47:38,688 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:47:38,701 - INFO - 📡 DNS: 192.168.29.209 -> ib.sin1.geoadnxs.com
+2025-08-18 16:47:38,716 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:47:38,729 - INFO - 📡 DNS: 192.168.29.209 -> wndc1.outbrain.org
+2025-08-18 16:47:38,746 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:47:38,761 - INFO - 📡 DNS: 192.168.29.209 -> simage2.pubmatic.com
+2025-08-18 16:47:38,777 - INFO - 📡 DNS: 192.168.29.209 -> tg.dr.socdm.com
+2025-08-18 16:47:38,798 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.com
+2025-08-18 16:47:38,867 - INFO - 📡 DNS: 192.168.29.209 -> ib.sin1.geoadnxs.com
+2025-08-18 16:47:38,884 - INFO - 📡 DNS: 192.168.29.209 -> cdn.taboola.com
+2025-08-18 16:47:38,917 - INFO - 📡 DNS: 192.168.29.209 -> pug-sin12.pubmnet.com
+2025-08-18 16:47:38,939 - INFO - 📡 DNS: 192.168.29.209 -> sync.1rx.io
+2025-08-18 16:47:38,956 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:47:38,985 - INFO - 📡 DNS: 192.168.29.209 -> tr6.snapchat.com
+2025-08-18 16:47:39,034 - INFO - 📡 DNS: 192.168.29.209 -> dis.criteo.com
+2025-08-18 16:47:39,069 - INFO - 📡 DNS: 192.168.29.209 -> pixel-lb-1641086380.eu-west-1.elb.amazonaws.com
+2025-08-18 16:47:39,081 - INFO - 📡 DNS: 192.168.29.209 -> rtb-csync-apac1.smartadserver.com
+2025-08-18 16:47:39,120 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.com
+2025-08-18 16:47:39,134 - INFO - 📡 DNS: 192.168.29.209 -> dis.criteo.com
+2025-08-18 16:47:39,176 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:47:39,190 - INFO - 📡 DNS: 192.168.29.209 -> dis.criteo.com
+2025-08-18 16:47:39,229 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:47:39,241 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:47:39,281 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:47:39,292 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:47:39,309 - INFO - 📡 DNS: 192.168.29.209 -> sg-vip001.taboola.com
+2025-08-18 16:47:39,331 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:47:39,351 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:47:39,362 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:47:39,374 - INFO - 📡 DNS: 192.168.29.209 -> tr6.snapchat.com
+2025-08-18 16:47:39,385 - INFO - 📡 DNS: 192.168.29.209 -> p-eu.brsrvr.com
+2025-08-18 16:47:39,400 - INFO - 📡 DNS: 192.168.29.209 -> simage2.pubmatic.com
+2025-08-18 16:47:39,419 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:47:39,434 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:47:39,453 - INFO - 📡 DNS: 192.168.29.209 -> simage2.pubmatic.com
+2025-08-18 16:47:39,473 - INFO - 📡 DNS: 192.168.29.209 -> eb2.3lift.com
+2025-08-18 16:47:39,488 - INFO - 📡 DNS: 192.168.29.209 -> connect.facebook.net
+2025-08-18 16:47:39,500 - INFO - 📡 DNS: 192.168.29.209 -> contextual.media.net
+2025-08-18 16:47:39,515 - INFO - 📡 DNS: 192.168.29.209 -> activationedge-activation-886544353.ap-northeast-1.elb.amazonaws.com
+2025-08-18 16:47:39,534 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:47:39,551 - INFO - 📡 DNS: 192.168.29.209 -> sg-vip001.taboola.com
+2025-08-18 16:47:39,566 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:47:39,582 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.com
+2025-08-18 16:47:39,601 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:47:39,615 - INFO - 📡 DNS: 192.168.29.209 -> activationedge-activation-886544353.ap-northeast-1.elb.amazonaws.com
+2025-08-18 16:47:39,628 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:47:39,641 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:47:39,656 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:47:39,665 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:47:39,677 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:47:39,690 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.net.akadns.net
+2025-08-18 16:47:39,707 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:47:39,718 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:47:39,735 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:47:39,760 - INFO - 📡 DNS: 192.168.29.209 -> e63851.dscj.akamaiedge.net
+2025-08-18 16:47:39,825 - INFO - 📡 DNS: 192.168.29.209 -> pixel.rubiconproject.com
+2025-08-18 16:47:39,841 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:47:39,862 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:47:39,876 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:47:39,900 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:47:39,919 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:47:39,939 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:47:39,957 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:47:39,968 - INFO - 📡 DNS: 192.168.29.209 -> tr6.snapchat.com
+2025-08-18 16:47:39,982 - INFO - 📡 DNS: 192.168.29.209 -> wndc1.outbrain.org
+2025-08-18 16:47:40,001 - INFO - 📡 DNS: 192.168.29.209 -> sync.1rx.io
+2025-08-18 16:47:40,022 - INFO - 📡 DNS: 192.168.29.209 -> aa.agkn.com
+2025-08-18 16:47:40,035 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:47:40,066 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:47:40,083 - INFO - 📡 DNS: 192.168.29.209 -> sync-t1.taboola.com
+2025-08-18 16:47:40,101 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:47:40,139 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:47:40,165 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:47:40,177 - INFO - 📡 DNS: 192.168.29.209 -> contextual.media.net
+2025-08-18 16:47:40,202 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:47:40,240 - INFO - 📡 DNS: 192.168.29.209 -> r.casalemedia.com
+2025-08-18 16:47:40,267 - INFO - 📡 DNS: 192.168.29.209 -> simage2.pubmatic.com
+2025-08-18 16:47:40,284 - INFO - 📡 DNS: 192.168.29.209 -> ade.clmbtech.com
+2025-08-18 16:47:40,338 - INFO - 📡 DNS: 192.168.29.209 -> contextual.media.net
+2025-08-18 16:47:40,370 - INFO - 📡 DNS: 192.168.29.209 -> criteo-sync.teads.tv
+2025-08-18 16:47:40,387 - INFO - 📡 DNS: 192.168.29.209 -> connect.facebook.net
+2025-08-18 16:47:40,441 - INFO - 📡 DNS: 192.168.29.209 -> tg.socdm.com
+2025-08-18 16:47:40,460 - INFO - 📡 DNS: 192.168.29.209 -> ad.360yield.com
+2025-08-18 16:47:40,473 - INFO - 📡 DNS: 192.168.29.209 -> idsync.rlcdn.com
+2025-08-18 16:47:40,542 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:47:40,574 - INFO - 📡 DNS: 192.168.29.209 -> gumi.criteo.com
+2025-08-18 16:47:40,642 - INFO - 📡 DNS: 192.168.29.209 -> ib.adnxs.com
+2025-08-18 16:47:40,671 - INFO - 📡 DNS: 192.168.29.209 -> secure-media.hotstar.com
+2025-08-18 16:47:40,741 - INFO - 📡 DNS: 192.168.29.209 -> cm.g.doubleclick.net
+2025-08-18 16:47:40,772 - INFO - 📡 DNS: 192.168.29.209 -> ads.stickyadstv.com
+2025-08-18 16:47:40,807 - ERROR - Database error: database is locked
+2025-08-18 16:47:40,818 - INFO - 📡 DNS: 192.168.29.209 -> e6449.a.akamaiedge.net
+2025-08-18 16:47:40,845 - INFO - 📡 DNS: 192.168.29.209 -> 9526535.fls.doubleclick.net
+2025-08-18 16:47:40,944 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:47:41,046 - INFO - 📡 DNS: 192.168.29.209 -> sync.outbrain.com
+2025-08-18 16:47:49,878 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 16:47:49,896 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 16:47:49,910 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 16:47:49,933 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 16:48:05,243 - INFO - 📡 DNS: 192.168.29.209 -> bam.cell.nr-data.net
+2025-08-18 16:48:05,264 - INFO - 📡 DNS: 192.168.29.209 -> bam.cell.nr-data.net
+2025-08-18 16:48:05,299 - INFO - 📡 DNS: 192.168.29.209 -> bam.cell.nr-data.net
+2025-08-18 16:48:09,828 - INFO - 📡 DNS: 192.168.29.209 -> clarity-ingest-eus-b-sc.eastus.cloudapp.azure.com
+2025-08-18 16:48:09,842 - INFO - 📡 DNS: 192.168.29.209 -> ectozoaquagga.top
+2025-08-18 16:48:09,857 - INFO - 📡 DNS: 192.168.29.209 -> ectozoaquagga.top
+2025-08-18 16:48:09,866 - INFO - 📡 DNS: 192.168.29.209 -> ectozoaquagga.top
+2025-08-18 16:48:09,882 - INFO - 📡 DNS: 192.168.29.209 -> v2006.com
+2025-08-18 16:48:09,896 - INFO - 📡 DNS: 192.168.29.209 -> fogstream71.xyz
+2025-08-18 16:48:09,913 - INFO - 📡 DNS: 192.168.29.209 -> fogstream71.xyz
+2025-08-18 16:48:09,929 - INFO - 📡 DNS: 192.168.29.209 -> configuration.ls.apple.com
+2025-08-18 16:48:09,948 - INFO - 📡 DNS: 192.168.29.209 -> fogstream71.xyz
+2025-08-18 16:48:09,960 - INFO - 📡 DNS: 192.168.29.209 -> v2006.com
+2025-08-18 16:48:09,974 - INFO - 📡 DNS: 192.168.29.209 -> configuration.ls.apple.com
+2025-08-18 16:48:09,985 - INFO - 📡 DNS: 192.168.29.209 -> v2006.com
+2025-08-18 16:48:09,995 - INFO - 📡 DNS: 192.168.29.209 -> configuration.ls.v.aaplimg.com
+2025-08-18 16:48:10,006 - INFO - 📡 DNS: 192.168.29.209 -> sg.acapniawhute.shop
+2025-08-18 16:48:10,024 - INFO - 📡 DNS: 192.168.29.209 -> configuration.ls.apple.com
+2025-08-18 16:48:10,042 - INFO - 📡 DNS: 192.168.29.209 -> sg.acapniawhute.shop
+2025-08-18 16:48:10,060 - INFO - 📡 DNS: 192.168.29.209 -> sg.acapniawhute.shop
+2025-08-18 16:48:10,096 - INFO - 📡 DNS: 192.168.29.209 -> pixelriverforge.com
+2025-08-18 16:48:10,118 - INFO - 📡 DNS: 192.168.29.209 -> pixelriverforge.com
+2025-08-18 16:48:13,841 - INFO - 📡 DNS: 192.168.29.209 -> in.bookmyshow.com
+2025-08-18 16:48:13,860 - INFO - 📡 DNS: 192.168.29.209 -> in.bookmyshow.com
+2025-08-18 16:48:13,873 - INFO - 📡 DNS: 192.168.29.209 -> in.bookmyshow.com
+2025-08-18 16:48:14,002 - INFO - 📡 DNS: 192.168.29.209 -> itunes.apple.com
+2025-08-18 16:48:14,020 - INFO - 📡 DNS: 192.168.29.209 -> itunes.apple.com
+2025-08-18 16:48:14,038 - INFO - 📡 DNS: 192.168.29.209 -> itunes.apple.com
+2025-08-18 16:48:14,062 - INFO - 📡 DNS: 192.168.29.209 -> e673.dsce9.akamaiedge.net
+2025-08-18 16:48:14,583 - INFO - 📡 DNS: 192.168.29.209 -> web-assets-in.bmscdn.com
+2025-08-18 16:48:14,597 - INFO - 📡 DNS: 192.168.29.209 -> fonts.googleapis.com
+2025-08-18 16:48:14,614 - INFO - 📡 DNS: 192.168.29.209 -> fonts.gstatic.com
+2025-08-18 16:48:14,630 - INFO - 📡 DNS: 192.168.29.209 -> fonts.gstatic.com
+2025-08-18 16:48:14,646 - INFO - 📡 DNS: 192.168.29.209 -> fonts.gstatic.com
+2025-08-18 16:48:14,659 - INFO - 📡 DNS: 192.168.29.209 -> in.bmscdn.com
+2025-08-18 16:48:14,675 - INFO - 📡 DNS: 192.168.29.209 -> securepubads.g.doubleclick.net
+2025-08-18 16:48:14,687 - INFO - 📡 DNS: 192.168.29.209 -> securepubads.g.doubleclick.net
+2025-08-18 16:48:14,703 - INFO - 📡 DNS: 192.168.29.209 -> fonts.googleapis.com
+2025-08-18 16:48:14,715 - INFO - 📡 DNS: 192.168.29.209 -> assets-in.bmscdn.com
+2025-08-18 16:48:14,727 - INFO - 📡 DNS: 192.168.29.209 -> fonts.googleapis.com
+2025-08-18 16:48:14,755 - INFO - 📡 DNS: 192.168.29.209 -> d3j1xk4dgejrpb.cloudfront.net
+2025-08-18 16:48:14,780 - INFO - 📡 DNS: 192.168.29.209 -> securepubads.g.doubleclick.net
+2025-08-18 16:48:14,814 - INFO - 📡 DNS: 192.168.29.209 -> web-assets-in.bmscdn.com
+2025-08-18 16:48:14,830 - INFO - 📡 DNS: 192.168.29.209 -> in.bmscdn.com
+2025-08-18 16:48:14,915 - INFO - 📡 DNS: 192.168.29.209 -> in.bmscdn.com
+2025-08-18 16:48:14,932 - INFO - 📡 DNS: 192.168.29.209 -> assets-in.bmscdn.com
+2025-08-18 16:48:15,006 - INFO - 📡 DNS: 192.168.29.209 -> d2r1yp2w7bby2u.cloudfront.net
+2025-08-18 16:48:15,024 - INFO - 📡 DNS: 192.168.29.209 -> d2r1yp2w7bby2u.cloudfront.net
+2025-08-18 16:48:15,040 - INFO - 📡 DNS: 192.168.29.209 -> d2r1yp2w7bby2u.cloudfront.net
+2025-08-18 16:48:15,122 - INFO - 📡 DNS: 192.168.29.209 -> web-assets-in.bmscdn.com
+2025-08-18 16:48:15,136 - INFO - 📡 DNS: 192.168.29.209 -> sentry.bookmyshow.com
+2025-08-18 16:48:15,156 - INFO - 📡 DNS: 192.168.29.209 -> sentry.bookmyshow.com
+2025-08-18 16:48:15,170 - INFO - 📡 DNS: 192.168.29.209 -> sentry.bookmyshow.com
+2025-08-18 16:48:15,219 - INFO - 📡 DNS: 192.168.29.209 -> assets-in.bmscdn.com
+2025-08-18 16:48:15,292 - INFO - 📡 DNS: 192.168.29.209 -> www.youtube.com
+2025-08-18 16:48:15,305 - INFO - 📡 DNS: 192.168.29.209 -> www.youtube.com
+2025-08-18 16:48:15,318 - INFO - 📡 DNS: 192.168.29.209 -> www.youtube.com
+2025-08-18 16:48:15,331 - INFO - 📡 DNS: 192.168.29.209 -> services-in.bookmyshow.com
+2025-08-18 16:48:15,364 - INFO - 📡 DNS: 192.168.29.209 -> services-in.bookmyshow.com
+2025-08-18 16:48:15,399 - INFO - 📡 DNS: 192.168.29.209 -> services-in.bookmyshow.com
+2025-08-18 16:48:15,546 - INFO - 📡 DNS: 192.168.29.209 -> clickstream-in.bookmyshow.com
+2025-08-18 16:48:15,559 - INFO - 📡 DNS: 192.168.29.209 -> clickstream-in.bookmyshow.com
+2025-08-18 16:48:15,577 - INFO - 📡 DNS: 192.168.29.209 -> clickstream-in.bookmyshow.com
+2025-08-18 16:48:15,605 - INFO - 📡 DNS: 192.168.29.209 -> eu1.clevertap-prod.com
+2025-08-18 16:48:15,622 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:48:15,633 - INFO - 📡 DNS: 192.168.29.209 -> www.google-analytics.com
+2025-08-18 16:48:15,645 - INFO - 📡 DNS: 192.168.29.209 -> scontent.xx.fbcdn.net
+2025-08-18 16:48:15,657 - INFO - 📡 DNS: 192.168.29.209 -> eu1.clevertap-prod.com
+2025-08-18 16:48:15,684 - INFO - 📡 DNS: 192.168.29.209 -> eu1.clevertap-prod.com
+2025-08-18 16:48:15,699 - INFO - 📡 DNS: 192.168.29.209 -> www-alv.google-analytics.com
+2025-08-18 16:48:15,736 - INFO - 📡 DNS: 192.168.29.209 -> www.google-analytics.com
+2025-08-18 16:48:15,752 - INFO - 📡 DNS: 192.168.29.209 -> www.google-analytics.com
+2025-08-18 16:48:15,790 - INFO - 📡 DNS: 192.168.29.209 -> www-alv.google-analytics.com
+2025-08-18 16:48:15,803 - INFO - 📡 DNS: 192.168.29.209 -> www-alv.google-analytics.com
+2025-08-18 16:48:15,852 - INFO - 📡 DNS: 192.168.29.209 -> www.google-analytics.com
+2025-08-18 16:48:15,982 - INFO - 📡 DNS: 192.168.29.209 -> stats.g.doubleclick.net
+2025-08-18 16:48:15,993 - INFO - 📡 DNS: 192.168.29.209 -> ampcid.google.com
+2025-08-18 16:48:16,016 - INFO - 📡 DNS: 192.168.29.209 -> stats.g.doubleclick.net
+2025-08-18 16:48:16,034 - INFO - 📡 DNS: 192.168.29.209 -> ampcid.google.com
+2025-08-18 16:48:16,049 - INFO - 📡 DNS: 192.168.29.209 -> ampcid.google.com
+2025-08-18 16:48:16,062 - INFO - 📡 DNS: 192.168.29.209 -> www.google.co.in
+2025-08-18 16:48:16,084 - INFO - 📡 DNS: 192.168.29.209 -> stats.g.doubleclick.net
+2025-08-18 16:48:16,309 - INFO - 📡 DNS: 192.168.29.209 -> 4736850.fls.doubleclick.net
+2025-08-18 16:48:16,330 - INFO - 📡 DNS: 192.168.29.209 -> 4736850.fls.doubleclick.net
+2025-08-18 16:48:16,343 - INFO - 📡 DNS: 192.168.29.209 -> 4736850.fls.doubleclick.net
+2025-08-18 16:48:16,363 - INFO - 📡 DNS: 192.168.29.209 -> ampcid.google.co.in
+2025-08-18 16:48:16,380 - INFO - 📡 DNS: 192.168.29.209 -> ampcid.google.co.in
+2025-08-18 16:48:16,415 - INFO - 📡 DNS: 192.168.29.209 -> ampcid.google.co.in
+2025-08-18 16:48:53,051 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 16:48:53,064 - INFO - 📡 DNS: 192.168.29.209 -> api.revenuecat.com
+2025-08-18 16:48:53,091 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 16:48:53,122 - INFO - 📡 DNS: 192.168.29.209 -> api.revenuecat.com
+2025-08-18 16:48:53,147 - INFO - 📡 DNS: 192.168.29.209 -> api.revenuecat.com
+2025-08-18 16:48:53,343 - INFO - 📡 DNS: 192.168.29.209 -> o4504136533147648.ingest.us.sentry.io
+2025-08-18 16:48:53,364 - INFO - 📡 DNS: 192.168.29.209 -> skan.singular.net
+2025-08-18 16:48:53,380 - INFO - 📡 DNS: 192.168.29.209 -> o4504136533147648.ingest.us.sentry.io
+2025-08-18 16:48:53,398 - INFO - 📡 DNS: 192.168.29.209 -> skan.singular.net
+2025-08-18 16:48:53,421 - INFO - 📡 DNS: 192.168.29.209 -> skan.singular.net
+2025-08-18 16:48:53,432 - INFO - 📡 DNS: 192.168.29.209 -> a1988.b.akamai.net
+2025-08-18 16:48:53,450 - INFO - 📡 DNS: 192.168.29.209 -> o4504136533147648.ingest.us.sentry.io
+2025-08-18 16:48:53,464 - INFO - 📡 DNS: 192.168.29.209 -> a1988.b.akamai.net
+2025-08-18 16:48:53,485 - INFO - 📡 DNS: 192.168.29.209 -> fscdn.eppo.cloud
+2025-08-18 16:48:53,501 - INFO - 📡 DNS: 192.168.29.209 -> fscdn.eppo.cloud
+2025-08-18 16:48:53,523 - INFO - 📡 DNS: 192.168.29.209 -> fscdn.eppo.cloud
+2025-08-18 16:48:53,543 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 16:48:53,568 - INFO - 📡 DNS: 192.168.29.209 -> firebaselogging-pa.googleapis.com
+2025-08-18 16:48:53,578 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 16:48:53,600 - INFO - 📡 DNS: 192.168.29.209 -> firebaselogging-pa.googleapis.com
+2025-08-18 16:48:53,620 - INFO - 📡 DNS: 192.168.29.209 -> firebaselogging-pa.googleapis.com
+2025-08-18 16:48:53,820 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 16:48:53,836 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 16:48:53,848 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 16:48:58,359 - INFO - 📡 DNS: 192.168.29.209 -> r2cdn.perplexity.ai
+2025-08-18 16:48:58,372 - INFO - 📡 DNS: 192.168.29.209 -> r2cdn.perplexity.ai
+2025-08-18 16:48:58,388 - INFO - 📡 DNS: 192.168.29.209 -> r2cdn.perplexity.ai
+2025-08-18 16:49:10,774 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:49:10,793 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:49:25,947 - INFO - 📡 DNS: 192.168.29.209 -> time.apple.com
+2025-08-18 16:49:25,976 - INFO - 📡 DNS: 192.168.29.209 -> time.apple.com
+2025-08-18 16:49:31,221 - INFO - 📡 DNS: 192.168.29.179 -> epdg.epc.mnc053.mcc405.pub.3gppnetwork.org
+2025-08-18 16:49:34,112 - INFO - 📡 DNS: 192.168.29.209 -> chat.cdn.whatsapp.net
+2025-08-18 16:49:34,126 - INFO - 📡 DNS: 192.168.29.209 -> chat.cdn.whatsapp.net
+2025-08-18 16:49:38,374 - INFO - 📡 DNS: 192.168.29.209 -> captive.g.aaplimg.com
+2025-08-18 16:49:38,394 - INFO - 📡 DNS: 192.168.29.209 -> captive.g.aaplimg.com
+2025-08-18 16:49:38,411 - INFO - 📡 DNS: 192.168.29.209 -> captive.g.aaplimg.com
+2025-08-18 16:49:43,575 - INFO - 📡 DNS: 192.168.29.209 -> oauthaccountmanager.googleapis.com
+2025-08-18 16:49:43,591 - INFO - 📡 DNS: 192.168.29.209 -> oauth2.googleapis.com
+2025-08-18 16:49:43,607 - INFO - 📡 DNS: 192.168.29.209 -> oauth2.googleapis.com
+2025-08-18 16:49:43,625 - INFO - 📡 DNS: 192.168.29.209 -> oauth2.googleapis.com
+2025-08-18 16:49:43,654 - INFO - 📡 DNS: 192.168.29.209 -> oauthaccountmanager.googleapis.com
+2025-08-18 16:49:43,689 - INFO - 📡 DNS: 192.168.29.209 -> oauthaccountmanager.googleapis.com
+2025-08-18 16:49:43,930 - INFO - 📡 DNS: 192.168.29.209 -> lh3.googleusercontent.com
+2025-08-18 16:49:43,948 - INFO - 📡 DNS: 192.168.29.209 -> lh3.googleusercontent.com
+2025-08-18 16:49:43,969 - INFO - 📡 DNS: 192.168.29.209 -> lh3.googleusercontent.com
+2025-08-18 16:49:44,104 - INFO - 📡 DNS: 192.168.29.209 -> googlehosted.l.googleusercontent.com
+2025-08-18 16:49:44,308 - INFO - 📡 DNS: 192.168.29.209 -> youtubei.googleapis.com
+2025-08-18 16:49:44,326 - INFO - 📡 DNS: 192.168.29.209 -> youtubei.googleapis.com
+2025-08-18 16:49:44,345 - INFO - 📡 DNS: 192.168.29.209 -> youtubei.googleapis.com
+2025-08-18 16:49:49,202 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 16:49:49,217 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 16:49:49,233 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 16:49:49,256 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 16:49:50,439 - INFO - 📡 DNS: 192.168.29.209 -> i.instagram.com
+2025-08-18 16:49:50,459 - INFO - 📡 DNS: 192.168.29.209 -> i.instagram.com
+2025-08-18 16:49:50,475 - INFO - 📡 DNS: 192.168.29.209 -> gateway.facebook.com
+2025-08-18 16:49:50,494 - INFO - 📡 DNS: 192.168.29.209 -> gateway.facebook.com
+2025-08-18 16:49:50,536 - INFO - 📡 DNS: 192.168.29.209 -> gateway.instagram.com
+2025-08-18 16:49:50,553 - INFO - 📡 DNS: 192.168.29.209 -> gateway.instagram.com
+2025-08-18 16:49:50,577 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.c10r.facebook.com
+2025-08-18 16:49:50,588 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.c10r.facebook.com
+2025-08-18 16:49:50,608 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 16:49:50,622 - INFO - 📡 DNS: 192.168.29.209 -> edge-mqtt.facebook.com
+2025-08-18 16:49:50,644 - INFO - 📡 DNS: 192.168.29.209 -> edge-mqtt.facebook.com
+2025-08-18 16:49:50,677 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 16:49:50,737 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-2.fna.fbcdn.net
+2025-08-18 16:49:50,755 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-2.fna.fbcdn.net
+2025-08-18 16:49:50,772 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-1.fna.fbcdn.net
+2025-08-18 16:49:50,794 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-1.fna.fbcdn.net
+2025-08-18 16:49:51,366 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-3.fna.fbcdn.net
+2025-08-18 16:49:51,387 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-3.fna.fbcdn.net
+2025-08-18 16:49:52,915 - INFO - 📡 DNS: 192.168.29.209 -> web.facebook.com
+2025-08-18 16:49:52,933 - INFO - 📡 DNS: 192.168.29.209 -> web.facebook.com
+2025-08-18 16:49:52,946 - INFO - 📡 DNS: 192.168.29.209 -> web.facebook.com
+2025-08-18 16:49:52,973 - INFO - 📡 DNS: 192.168.29.209 -> z-p42-chat-e2ee-ig.facebook.com
+2025-08-18 16:49:52,989 - INFO - 📡 DNS: 192.168.29.209 -> z-p42-chat-e2ee-ig.facebook.com
+2025-08-18 16:49:53,234 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.itunes.apple.com
+2025-08-18 16:49:53,252 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.itunes.apple.com
+2025-08-18 16:49:53,277 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.itunes.apple.com
+2025-08-18 16:49:53,426 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.g.aaplimg.com
+2025-08-18 16:49:56,641 - INFO - 📡 DNS: 192.168.29.209 -> graph.instagram.com
+2025-08-18 16:49:56,662 - INFO - 📡 DNS: 192.168.29.209 -> graph.instagram.com
+2025-08-18 16:49:56,985 - INFO - 📡 DNS: 192.168.29.209 -> play.googleapis.com
+2025-08-18 16:49:57,000 - INFO - 📡 DNS: 192.168.29.209 -> play.googleapis.com
+2025-08-18 16:49:57,017 - INFO - 📡 DNS: 192.168.29.209 -> play.googleapis.com
+2025-08-18 16:50:02,448 - INFO - 📡 DNS: 192.168.29.209 -> configuration-lb.ls-apple.com.akadns.net
+2025-08-18 16:50:02,515 - INFO - 📡 DNS: 192.168.29.209 -> configuration-lb.ls-apple.com.akadns.net
+2025-08-18 16:50:02,551 - INFO - 📡 DNS: 192.168.29.209 -> configuration-lb.ls-apple.com.akadns.net
+2025-08-18 16:51:13,212 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 16:51:13,212 - INFO - 🛑 DNS Monitor stopped
+2025-08-18 16:51:51,956 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:51:51,973 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 16:51:51,990 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 16:51:52,428 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:51:53,311 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:51:53,551 - INFO - 📡 DNS: 192.168.29.209 -> crashlyticsreports-pa.googleapis.com
+2025-08-18 16:51:53,566 - INFO - 📡 DNS: 192.168.29.209 -> crashlyticsreports-pa.googleapis.com
+2025-08-18 16:51:53,584 - INFO - 📡 DNS: 192.168.29.209 -> crashlyticsreports-pa.googleapis.com
+2025-08-18 16:51:53,600 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:51:54,046 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services-att.com
+2025-08-18 16:51:54,068 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services-att.com
+2025-08-18 16:51:54,081 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services-att.com
+2025-08-18 16:51:54,657 - INFO - 📡 DNS: 192.168.29.209 -> q85h1y-launches.appsflyersdk.com
+2025-08-18 16:51:54,674 - INFO - 📡 DNS: 192.168.29.209 -> q85h1y-launches.appsflyersdk.com
+2025-08-18 16:51:54,689 - INFO - 📡 DNS: 192.168.29.209 -> q85h1y-launches.appsflyersdk.com
+2025-08-18 16:51:55,812 - INFO - 📡 DNS: 192.168.29.209 -> outpost.mapmyindia.com
+2025-08-18 16:51:55,825 - INFO - 📡 DNS: 192.168.29.209 -> outpost.mapmyindia.com
+2025-08-18 16:51:55,845 - INFO - 📡 DNS: 192.168.29.209 -> outpost.mapmyindia.com
+2025-08-18 16:51:55,879 - INFO - 📡 DNS: 192.168.29.209 -> d1z881mfnaepr2.cloudfront.net
+2025-08-18 16:51:56,108 - INFO - 📡 DNS: 192.168.29.209 -> anchor.mapmyindia.com
+2025-08-18 16:51:56,124 - INFO - 📡 DNS: 192.168.29.209 -> anchor.mapmyindia.com
+2025-08-18 16:51:56,138 - INFO - 📡 DNS: 192.168.29.209 -> anchor.mapmyindia.com
+2025-08-18 16:51:56,165 - INFO - 📡 DNS: 192.168.29.209 -> d1nuo8rnkel1fh.cloudfront.net
+2025-08-18 16:51:56,736 - INFO - 📡 DNS: 192.168.29.209 -> accounts-api.phonepe.com
+2025-08-18 16:51:56,750 - INFO - 📡 DNS: 192.168.29.209 -> accounts-api.phonepe.com
+2025-08-18 16:51:56,773 - INFO - 📡 DNS: 192.168.29.209 -> apicp1.phonepe.com
+2025-08-18 16:51:56,788 - INFO - 📡 DNS: 192.168.29.209 -> accounts-api.phonepe.com
+2025-08-18 16:51:56,804 - INFO - 📡 DNS: 192.168.29.209 -> apicp1.phonepe.com
+2025-08-18 16:51:56,819 - INFO - 📡 DNS: 192.168.29.209 -> apicp1.phonepe.com
+2025-08-18 16:51:56,835 - INFO - 📡 DNS: 192.168.29.209 -> e10001499.dsct.akamaiedge.net
+2025-08-18 16:51:56,850 - INFO - 📡 DNS: 192.168.29.209 -> auth-api.phonepe.com
+2025-08-18 16:51:56,873 - INFO - 📡 DNS: 192.168.29.209 -> auth-api.phonepe.com
+2025-08-18 16:51:56,891 - INFO - 📡 DNS: 192.168.29.209 -> accounts-api.phonepe.com.cdn.cloudflare.net
+2025-08-18 16:51:56,910 - INFO - 📡 DNS: 192.168.29.209 -> auth-api.phonepe.com.cdn.cloudflare.net
+2025-08-18 16:51:56,926 - INFO - 📡 DNS: 192.168.29.209 -> auth-api.phonepe.com
+2025-08-18 16:51:56,941 - INFO - 📡 DNS: 192.168.29.209 -> apis.mapmyindia.com
+2025-08-18 16:51:56,957 - INFO - 📡 DNS: 192.168.29.209 -> apis.mapmyindia.com
+2025-08-18 16:51:56,971 - INFO - 📡 DNS: 192.168.29.209 -> apis.mapmyindia.com
+2025-08-18 16:51:57,000 - INFO - 📡 DNS: 192.168.29.209 -> da9jw7z8rnovx.cloudfront.net
+2025-08-18 16:51:57,280 - INFO - 📡 DNS: 192.168.29.209 -> bolt-cp2.phonepe.com
+2025-08-18 16:51:57,299 - INFO - 📡 DNS: 192.168.29.209 -> bolt-cp2.phonepe.com
+2025-08-18 16:51:57,314 - INFO - 📡 DNS: 192.168.29.209 -> bolt-cp2.phonepe.com
+2025-08-18 16:51:57,335 - INFO - 📡 DNS: 192.168.29.209 -> bolt-cp2.phonepe.com.cdn.cloudflare.net
+2025-08-18 16:53:44,720 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:53:44,743 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 16:53:44,756 - INFO - 📡 DNS: 192.168.29.209 -> outpost.mapmyindia.com
+2025-08-18 16:53:44,768 - INFO - 📡 DNS: 192.168.29.209 -> da9jw7z8rnovx.cloudfront.net
+2025-08-18 16:53:44,780 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 16:53:44,795 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:53:44,808 - INFO - 📡 DNS: 192.168.29.209 -> outpost.mapmyindia.com
+2025-08-18 16:53:44,821 - INFO - 📡 DNS: 192.168.29.209 -> da9jw7z8rnovx.cloudfront.net
+2025-08-18 16:53:44,837 - INFO - 📡 DNS: 192.168.29.209 -> anchor.mapmyindia.com
+2025-08-18 16:53:44,860 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 16:53:44,874 - INFO - 📡 DNS: 192.168.29.209 -> d1z881mfnaepr2.cloudfront.net
+2025-08-18 16:53:44,891 - INFO - 📡 DNS: 192.168.29.209 -> anchor.mapmyindia.com
+2025-08-18 16:53:44,910 - INFO - 📡 DNS: 192.168.29.209 -> outpost.mapmyindia.com
+2025-08-18 16:53:44,922 - INFO - 📡 DNS: 192.168.29.209 -> apicp1.phonepe.com
+2025-08-18 16:53:44,936 - INFO - 📡 DNS: 192.168.29.209 -> anchor.mapmyindia.com
+2025-08-18 16:53:44,948 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 16:53:44,968 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 16:53:44,995 - INFO - 📡 DNS: 192.168.29.209 -> apicp1.phonepe.com
+2025-08-18 16:53:45,006 - INFO - 📡 DNS: 192.168.29.209 -> d1nuo8rnkel1fh.cloudfront.net
+2025-08-18 16:53:45,019 - INFO - 📡 DNS: 192.168.29.209 -> apicp1.phonepe.com
+2025-08-18 16:53:45,044 - INFO - 📡 DNS: 192.168.29.209 -> accounts-api.phonepe.com
+2025-08-18 16:53:45,065 - INFO - 📡 DNS: 192.168.29.209 -> accounts-api.phonepe.com
+2025-08-18 16:53:45,077 - INFO - 📡 DNS: 192.168.29.209 -> accounts-api.phonepe.com
+2025-08-18 16:53:45,123 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 16:53:45,165 - INFO - 📡 DNS: 192.168.29.209 -> auth-api.phonepe.com.cdn.cloudflare.net
+2025-08-18 16:53:45,270 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 16:53:45,293 - INFO - 📡 DNS: 192.168.29.209 -> q85h1y-launches.appsflyersdk.com
+2025-08-18 16:53:45,314 - INFO - 📡 DNS: 192.168.29.209 -> q85h1y-launches.appsflyersdk.com
+2025-08-18 16:53:45,327 - INFO - 📡 DNS: 192.168.29.209 -> da9jw7z8rnovx.cloudfront.net
+2025-08-18 16:53:45,348 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 16:53:45,369 - INFO - 📡 DNS: 192.168.29.209 -> q85h1y-launches.appsflyersdk.com
+2025-08-18 16:53:45,473 - INFO - 📡 DNS: 192.168.29.209 -> da9jw7z8rnovx.cloudfront.net
+2025-08-18 16:53:45,572 - INFO - 📡 DNS: 192.168.29.209 -> q85h1y-launches.appsflyersdk.com
+2025-08-18 16:53:54,725 - INFO - 📡 DNS: 192.168.29.209 -> chat.cdn.whatsapp.net
+2025-08-18 16:53:54,744 - INFO - 📡 DNS: 192.168.29.209 -> chat.cdn.whatsapp.net
+2025-08-18 16:53:55,613 - INFO - 📡 DNS: 192.168.29.209 -> media.fbbi5-3.fna.whatsapp.net
+2025-08-18 16:53:55,633 - INFO - 📡 DNS: 192.168.29.209 -> media.fbbi5-3.fna.whatsapp.net
+2025-08-18 16:53:55,647 - INFO - 📡 DNS: 192.168.29.209 -> media.fbbi5-3.fna.whatsapp.net
+2025-08-18 17:10:55,272 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,283 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,301 - INFO - 📡 DNS: 192.168.29.152 -> api.apple-cloudkit.fe2.apple-dns.net
+2025-08-18 17:10:55,321 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,345 - INFO - 📡 DNS: 192.168.29.152 -> 1.courier-sandbox-push-apple.com.akadns.net
+2025-08-18 17:10:55,446 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,479 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,507 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,536 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,566 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,595 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,619 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,665 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,706 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,735 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,812 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,840 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,919 - INFO - 📡 DNS: 192.168.29.152 -> mask.icloud.com
+2025-08-18 17:10:55,954 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:55,991 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:56,021 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:56,051 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:56,094 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:56,121 - INFO - 📡 DNS: 192.168.29.152 -> 1.courier-push-apple.com.akadns.net
+2025-08-18 17:10:56,134 - INFO - 📡 DNS: 192.168.29.152 -> _dns.resolver.arpa
+2025-08-18 17:10:56,164 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:56,182 - INFO - 📡 DNS: 192.168.29.152 -> mask.icloud.com
+2025-08-18 17:10:56,213 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:56,232 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:56,336 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:10:56,435 - INFO - 📡 DNS: 192.168.29.152 -> drivefrontend-pa.clients6.google.com
+2025-08-18 17:10:56,543 - INFO - 📡 DNS: 192.168.29.152 -> drivefrontend-pa.clients6.google.com
+2025-08-18 17:10:56,634 - INFO - 📡 DNS: 192.168.29.152 -> 152.29.168.192.in-addr.arpa
+2025-08-18 17:10:56,742 - INFO - 📡 DNS: 192.168.29.152 -> dns.google
+2025-08-18 17:18:44,409 - INFO - 🚀 DNS Monitor started on 0.0.0.0:53
+2025-08-18 17:18:47,548 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 17:18:47,585 - INFO - 📡 DNS: 192.168.29.209 -> www.google.com
+2025-08-18 17:18:47,601 - INFO - 📡 DNS: 192.168.29.209 -> www.instagram.com
+2025-08-18 17:18:47,615 - INFO - 📡 DNS: 192.168.29.209 -> gateway.instagram.com
+2025-08-18 17:18:47,640 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 17:18:47,651 - INFO - 📡 DNS: 192.168.29.209 -> o4504136533147648.ingest.us.sentry.io
+2025-08-18 17:18:47,667 - INFO - 📡 DNS: 192.168.29.209 -> o4504136533147648.ingest.us.sentry.io
+2025-08-18 17:18:47,680 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 17:18:47,689 - INFO - 📡 DNS: 192.168.29.209 -> youtubei.googleapis.com
+2025-08-18 17:18:47,699 - INFO - 📡 DNS: 192.168.29.209 -> z-p42-instagram.fallback.c10r.instagram.com
+2025-08-18 17:18:47,716 - INFO - 📡 DNS: 192.168.29.209 -> instagram.c10r.instagram.com
+2025-08-18 17:18:47,747 - INFO - 📡 DNS: 192.168.29.209 -> instagram.c10r.instagram.com
+2025-08-18 17:18:47,765 - INFO - 📡 DNS: 192.168.29.209 -> gateway.instagram.com
+2025-08-18 17:18:47,806 - INFO - 📡 DNS: 192.168.29.209 -> dgw.c10r.facebook.com
+2025-08-18 17:18:47,816 - INFO - 📡 DNS: 192.168.29.209 -> youtubei.googleapis.com
+2025-08-18 17:18:47,868 - INFO - 📡 DNS: 192.168.29.209 -> o4504136533147648.ingest.us.sentry.io
+2025-08-18 17:18:47,904 - INFO - 📡 DNS: 192.168.29.209 -> www.instagram.com
+2025-08-18 17:18:47,920 - INFO - 📡 DNS: 192.168.29.209 -> www.youtube.com
+2025-08-18 17:18:47,931 - INFO - 📡 DNS: 192.168.29.209 -> www.youtube.com
+2025-08-18 17:18:47,941 - INFO - 📡 DNS: 192.168.29.209 -> www.youtube.com
+2025-08-18 17:18:47,970 - INFO - 📡 DNS: 192.168.29.209 -> z-p42-instagram.fallback.c10r.instagram.com
+2025-08-18 17:18:47,986 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 17:18:48,005 - INFO - 📡 DNS: 192.168.29.209 -> www.instagram.com
+2025-08-18 17:18:48,070 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 17:18:48,106 - INFO - 📡 DNS: 192.168.29.209 -> mqtt.c10r.facebook.com
+2025-08-18 17:18:48,165 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 17:18:48,204 - INFO - 📡 DNS: 192.168.29.209 -> mqtt.c10r.facebook.com
+2025-08-18 17:18:48,227 - INFO - 📡 DNS: 192.168.29.209 -> dgw.c10r.facebook.com
+2025-08-18 17:18:48,244 - INFO - 📡 DNS: 192.168.29.209 -> mqtt.c10r.facebook.com
+2025-08-18 17:18:48,305 - INFO - 📡 DNS: 192.168.29.209 -> gateway.fe2.apple-dns.net
+2025-08-18 17:18:48,335 - INFO - 📡 DNS: 192.168.29.209 -> s.youtube.com
+2025-08-18 17:18:48,352 - INFO - 📡 DNS: 192.168.29.209 -> s.youtube.com
+2025-08-18 17:18:48,406 - INFO - 📡 DNS: 192.168.29.209 -> dgw.c10r.facebook.com
+2025-08-18 17:19:04,534 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 17:19:04,544 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 17:19:04,565 - INFO - 📡 DNS: 192.168.29.209 -> api.revenuecat.com
+2025-08-18 17:19:04,581 - INFO - 📡 DNS: 192.168.29.209 -> api.revenuecat.com
+2025-08-18 17:19:04,598 - INFO - 📡 DNS: 192.168.29.209 -> api.revenuecat.com
+2025-08-18 17:19:05,088 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 17:19:05,118 - INFO - 📡 DNS: 192.168.29.209 -> firebaselogging-pa.googleapis.com
+2025-08-18 17:19:05,144 - INFO - 📡 DNS: 192.168.29.209 -> skan.singular.net
+2025-08-18 17:19:05,169 - INFO - 📡 DNS: 192.168.29.209 -> firebaselogging-pa.googleapis.com
+2025-08-18 17:19:05,194 - INFO - 📡 DNS: 192.168.29.209 -> firebaselogging-pa.googleapis.com
+2025-08-18 17:19:05,221 - INFO - 📡 DNS: 192.168.29.209 -> a1988.b.akamai.net
+2025-08-18 17:19:05,257 - INFO - 📡 DNS: 192.168.29.209 -> skan.singular.net
+2025-08-18 17:19:05,293 - INFO - 📡 DNS: 192.168.29.209 -> skan.singular.net
+2025-08-18 17:19:05,374 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 17:19:05,476 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 17:19:06,387 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 17:19:06,741 - INFO - 📡 DNS: 192.168.29.209 -> apple.com
+2025-08-18 17:19:06,762 - INFO - 📡 DNS: 192.168.29.209 -> g.whatsapp.net
+2025-08-18 17:19:06,797 - INFO - 📡 DNS: 192.168.29.209 -> g.whatsapp.net
+2025-08-18 17:19:07,363 - INFO - 📡 DNS: 192.168.29.209 -> z-p42-chat-e2ee-ig.facebook.com
+2025-08-18 17:19:07,393 - INFO - 📡 DNS: 192.168.29.209 -> z-p42-chat-e2ee-ig.facebook.com
+2025-08-18 17:19:07,690 - INFO - 📡 DNS: 192.168.29.209 -> graph.facebook.com
+2025-08-18 17:19:07,722 - INFO - 📡 DNS: 192.168.29.209 -> graph.facebook.com
+2025-08-18 17:19:07,758 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 17:19:07,793 - INFO - 📡 DNS: 192.168.29.209 -> graph.facebook.com
+2025-08-18 17:19:07,827 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 17:19:07,918 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-1.fna.fbcdn.net
+2025-08-18 17:19:07,935 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-1.fna.fbcdn.net
+2025-08-18 17:19:07,954 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-2.fna.fbcdn.net
+2025-08-18 17:19:08,030 - INFO - 📡 DNS: 192.168.29.209 -> 44-courier.push.apple.com
+2025-08-18 17:19:08,040 - INFO - 📡 DNS: 192.168.29.209 -> 44-courier.push.apple.com
+2025-08-18 17:19:08,222 - INFO - 📡 DNS: 192.168.29.209 -> apac-in-courier-4.push-apple.com.akadns.net
+2025-08-18 17:19:08,582 - INFO - 📡 DNS: 192.168.29.209 -> instagram.fbbi5-3.fna.fbcdn.net
+2025-08-18 17:19:08,614 - INFO - 📡 DNS: 192.168.29.209 -> youtubei.googleapis.com
+2025-08-18 17:19:09,910 - INFO - 📡 DNS: 192.168.29.209 -> r2cdn.perplexity.ai
+2025-08-18 17:19:09,922 - INFO - 📡 DNS: 192.168.29.209 -> r2cdn.perplexity.ai
+2025-08-18 17:19:09,946 - INFO - 📡 DNS: 192.168.29.209 -> r2cdn.perplexity.ai
+2025-08-18 17:19:15,703 - INFO - 📡 DNS: 192.168.29.209 -> media-ccu1-1.cdn.whatsapp.net
+2025-08-18 17:19:15,722 - INFO - 📡 DNS: 192.168.29.209 -> media-ccu1-1.cdn.whatsapp.net
+2025-08-18 17:19:15,735 - INFO - 📡 DNS: 192.168.29.209 -> media-ccu1-1.cdn.whatsapp.net
+2025-08-18 17:19:30,337 - INFO - 📡 DNS: 192.168.29.209 -> lh3.googleusercontent.com
+2025-08-18 17:19:30,347 - INFO - 📡 DNS: 192.168.29.209 -> lh3.googleusercontent.com
+2025-08-18 17:19:30,356 - INFO - 📡 DNS: 192.168.29.209 -> lh3.googleusercontent.com
+2025-08-18 17:19:30,415 - INFO - 📡 DNS: 192.168.29.209 -> configuration-lb.ls-apple.com.akadns.net
+2025-08-18 17:19:30,431 - INFO - 📡 DNS: 192.168.29.209 -> googlehosted.l.googleusercontent.com
+2025-08-18 17:19:30,450 - INFO - 📡 DNS: 192.168.29.209 -> configuration-lb.ls-apple.com.akadns.net
+2025-08-18 17:19:30,468 - INFO - 📡 DNS: 192.168.29.209 -> configuration-lb.ls-apple.com.akadns.net
+2025-08-18 17:19:30,582 - INFO - 📡 DNS: 192.168.29.209 -> configuration.ls.v.aaplimg.com
+2025-08-18 17:19:30,929 - INFO - 📡 DNS: 192.168.29.209 -> redirector.googlevideo.com
+2025-08-18 17:19:30,951 - INFO - 📡 DNS: 192.168.29.209 -> redirector.googlevideo.com
+2025-08-18 17:19:31,253 - INFO - 📡 DNS: 192.168.29.209 -> rr7---sn-gwpa-ccpd.googlevideo.com
+2025-08-18 17:19:31,269 - INFO - 📡 DNS: 192.168.29.209 -> rr7---sn-gwpa-ccpd.googlevideo.com
+2025-08-18 17:19:44,005 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 17:19:44,306 - INFO - 📡 DNS: 192.168.29.209 -> o4504136533147648.ingest.us.sentry.io
+2025-08-18 17:19:44,431 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 17:19:48,769 - INFO - 📡 DNS: 192.168.29.209 -> time.apple.com
+2025-08-18 17:19:48,785 - INFO - 📡 DNS: 192.168.29.209 -> time.apple.com
+2025-08-18 17:19:50,338 - INFO - 📡 DNS: 192.168.29.209 -> play.googleapis.com
+2025-08-18 17:19:50,378 - INFO - 📡 DNS: 192.168.29.209 -> play.googleapis.com
+2025-08-18 17:19:50,412 - INFO - 📡 DNS: 192.168.29.209 -> play.googleapis.com
+2025-08-18 17:19:55,119 - INFO - 📡 DNS: 192.168.29.209 -> chat.cdn.whatsapp.net
+2025-08-18 17:19:55,157 - INFO - 📡 DNS: 192.168.29.209 -> chat.cdn.whatsapp.net
+2025-08-18 17:19:56,616 - INFO - 📡 DNS: 192.168.29.209 -> static.whatsapp.net
+2025-08-18 17:19:56,630 - INFO - 📡 DNS: 192.168.29.209 -> static.whatsapp.net
+2025-08-18 17:19:56,652 - INFO - 📡 DNS: 192.168.29.209 -> static.whatsapp.net
+2025-08-18 17:19:56,705 - INFO - 📡 DNS: 192.168.29.209 -> mmx-ds.cdn.whatsapp.net
+2025-08-18 17:20:01,195 - INFO - 📡 DNS: 192.168.29.209 -> instagram.c10r.instagram.com
+2025-08-18 17:20:01,230 - INFO - 📡 DNS: 192.168.29.209 -> dgw.c10r.facebook.com
+2025-08-18 17:20:01,253 - INFO - 📡 DNS: 192.168.29.209 -> instagram.c10r.instagram.com
+2025-08-18 17:20:01,281 - INFO - 📡 DNS: 192.168.29.209 -> www.facebook.com
+2025-08-18 17:20:01,298 - INFO - 📡 DNS: 192.168.29.209 -> www.facebook.com
+2025-08-18 17:20:01,313 - INFO - 📡 DNS: 192.168.29.209 -> www.facebook.com
+2025-08-18 17:20:01,337 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 17:20:01,356 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 17:20:03,031 - INFO - 📡 DNS: 192.168.29.209 -> web.facebook.com
+2025-08-18 17:20:03,042 - INFO - 📡 DNS: 192.168.29.209 -> chat-e2ee-ig-p42.c10r.facebook.com
+2025-08-18 17:20:03,063 - INFO - 📡 DNS: 192.168.29.209 -> web.facebook.com
+2025-08-18 17:20:03,084 - INFO - 📡 DNS: 192.168.29.209 -> web.facebook.com
+2025-08-18 17:20:03,100 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 17:20:10,692 - INFO - 📡 DNS: 192.168.29.209 -> dgw.c10r.facebook.com
+2025-08-18 17:20:10,706 - INFO - 📡 DNS: 192.168.29.209 -> mqtt.c10r.facebook.com
+2025-08-18 17:20:10,723 - INFO - 📡 DNS: 192.168.29.209 -> mqtt.c10r.facebook.com
+2025-08-18 17:20:15,606 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 17:20:15,623 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 17:20:15,636 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 17:20:16,832 - INFO - 📡 DNS: 192.168.29.209 -> digianalytics.airtel.in
+2025-08-18 17:20:16,843 - INFO - 📡 DNS: 192.168.29.209 -> digianalytics.airtel.in
+2025-08-18 17:20:16,863 - INFO - 📡 DNS: 192.168.29.209 -> notify.bugsnag.com
+2025-08-18 17:20:16,881 - INFO - 📡 DNS: 192.168.29.209 -> sessions.bugsnag.com
+2025-08-18 17:20:16,898 - INFO - 📡 DNS: 192.168.29.209 -> myairtelapp.bsbportal.com
+2025-08-18 17:20:16,912 - INFO - 📡 DNS: 192.168.29.209 -> myairtelapp.bsbportal.com
+2025-08-18 17:20:16,975 - INFO - 📡 DNS: 192.168.29.209 -> adconfig.wynk.in
+2025-08-18 17:20:17,001 - INFO - 📡 DNS: 192.168.29.209 -> sdk-01.moengage.com
+2025-08-18 17:20:17,035 - INFO - 📡 DNS: 192.168.29.209 -> sdk-01.moengage.com
+2025-08-18 17:20:17,062 - INFO - 📡 DNS: 192.168.29.209 -> dgs.adtech.wynk.in
+2025-08-18 17:20:17,098 - INFO - 📡 DNS: 192.168.29.209 -> airtel-myairtelapp.airtel.akadns.net
+2025-08-18 17:20:17,630 - INFO - 📡 DNS: 192.168.29.209 -> digi-api.airtel.in
+2025-08-18 17:20:17,657 - INFO - 📡 DNS: 192.168.29.209 -> digi-api.airtel.in
+2025-08-18 17:20:17,684 - INFO - 📡 DNS: 192.168.29.209 -> firebaseremoteconfig.googleapis.com
+2025-08-18 17:20:17,708 - INFO - 📡 DNS: 192.168.29.209 -> digi-api.airtel.in
+2025-08-18 17:20:17,732 - INFO - 📡 DNS: 192.168.29.209 -> api3.branch.io
+2025-08-18 17:20:17,758 - INFO - 📡 DNS: 192.168.29.209 -> www.googleadservices.com
+2025-08-18 17:20:17,800 - INFO - 📡 DNS: 192.168.29.209 -> airtel-kong-active.airtel.akadns.net
+2025-08-18 17:20:17,831 - INFO - 📡 DNS: 192.168.29.209 -> www.googleadservices.com
+2025-08-18 17:20:17,863 - INFO - 📡 DNS: 192.168.29.209 -> notify.bugsnag.com
+2025-08-18 17:20:17,892 - INFO - 📡 DNS: 192.168.29.209 -> sessions.bugsnag.com
+2025-08-18 17:20:17,914 - INFO - 📡 DNS: 192.168.29.209 -> myairtelapp.bsbportal.com
+2025-08-18 17:20:17,946 - INFO - 📡 DNS: 192.168.29.209 -> adconfig.wynk.in
+2025-08-18 17:20:17,975 - INFO - 📡 DNS: 192.168.29.209 -> dgs.adtech.wynk.in
+2025-08-18 17:20:18,004 - INFO - 📡 DNS: 192.168.29.209 -> api3.branch.io
+2025-08-18 17:20:18,028 - INFO - 📡 DNS: 192.168.29.209 -> wps.apple.com
+2025-08-18 17:20:18,042 - INFO - 📡 DNS: 192.168.29.209 -> sdk-01.moengage.com
+2025-08-18 17:20:18,058 - INFO - 📡 DNS: 192.168.29.209 -> adconfig.wynk.in
+2025-08-18 17:20:18,067 - INFO - 📡 DNS: 192.168.29.209 -> assets.airtel.in
+2025-08-18 17:20:18,077 - INFO - 📡 DNS: 192.168.29.209 -> api3.branch.io
+2025-08-18 17:20:18,088 - INFO - 📡 DNS: 192.168.29.209 -> wps.apple.com
+2025-08-18 17:20:18,099 - INFO - 📡 DNS: 192.168.29.209 -> dgs.adtech.wynk.in
+2025-08-18 17:20:18,110 - INFO - 📡 DNS: 192.168.29.209 -> myairtelapp.bsbportal.com
+2025-08-18 17:20:18,122 - INFO - 📡 DNS: 192.168.29.209 -> digianalytics.airtel.akadns.net
+2025-08-18 17:20:18,143 - INFO - 📡 DNS: 192.168.29.209 -> apse1-wps-prod.apple.com
+2025-08-18 17:20:18,154 - INFO - 📡 DNS: 192.168.29.209 -> dgs.adtech.wynk.in
+2025-08-18 17:20:18,168 - INFO - 📡 DNS: 192.168.29.209 -> assets.airtel.in
+2025-08-18 17:20:18,177 - INFO - 📡 DNS: 192.168.29.209 -> apse1-wps-prod.apple.com
+2025-08-18 17:20:18,187 - INFO - 📡 DNS: 192.168.29.209 -> airtel-myairtelapp.airtel.akadns.net
+2025-08-18 17:20:18,201 - INFO - 📡 DNS: 192.168.29.209 -> firebaseremoteconfig.googleapis.com
+2025-08-18 17:20:18,219 - INFO - 📡 DNS: 192.168.29.209 -> wps.apple.com
+2025-08-18 17:20:18,236 - INFO - 📡 DNS: 192.168.29.209 -> airtel-myairtelapp.airtel.akadns.net
+2025-08-18 17:20:18,247 - INFO - 📡 DNS: 192.168.29.209 -> digianalytics.airtel.in
+2025-08-18 17:20:18,256 - INFO - 📡 DNS: 192.168.29.209 -> digianalytics.airtel.in
+2025-08-18 17:20:18,273 - INFO - 📡 DNS: 192.168.29.209 -> firebaseremoteconfig.googleapis.com
+2025-08-18 17:20:18,286 - INFO - 📡 DNS: 192.168.29.209 -> api3.branch.io
+2025-08-18 17:20:18,310 - INFO - 📡 DNS: 192.168.29.209 -> sdk-01.moengage.com
+2025-08-18 17:20:18,350 - INFO - 📡 DNS: 192.168.29.209 -> airtel-kong-active.airtel.akadns.net
+2025-08-18 17:20:18,368 - INFO - 📡 DNS: 192.168.29.209 -> sessions.bugsnag.com
+2025-08-18 17:20:18,380 - INFO - 📡 DNS: 192.168.29.209 -> digianalytics.airtel.akadns.net
+2025-08-18 17:20:18,389 - INFO - 📡 DNS: 192.168.29.209 -> assets.airtel.in
+2025-08-18 17:20:18,445 - INFO - 📡 DNS: 192.168.29.209 -> a1857.dscr.akamai.net
+2025-08-18 17:20:18,455 - INFO - 📡 DNS: 192.168.29.209 -> sessions.bugsnag.com
+2025-08-18 17:20:18,488 - INFO - 📡 DNS: 192.168.29.209 -> adconfig.wynk.in
+2025-08-18 17:20:18,557 - INFO - 📡 DNS: 192.168.29.209 -> dgs.adtech.wynk.in
+2025-08-18 17:20:18,587 - INFO - 📡 DNS: 192.168.29.209 -> digianalytics.airtel.akadns.net
+2025-08-18 17:20:18,713 - INFO - 📡 DNS: 192.168.29.209 -> adconfig.wynk.in
+2025-08-18 17:20:18,769 - INFO - 📡 DNS: 192.168.29.209 -> notify.bugsnag.com
+2025-08-18 17:20:18,805 - INFO - 📡 DNS: 192.168.29.209 -> api3.branch.io
+2025-08-18 17:20:18,836 - INFO - 📡 DNS: 192.168.29.209 -> proxy.adtech.wynk.in
+2025-08-18 17:20:18,872 - INFO - 📡 DNS: 192.168.29.209 -> sessions.bugsnag.com
+2025-08-18 17:20:18,900 - INFO - 📡 DNS: 192.168.29.209 -> imgads.wynk.in
+2025-08-18 17:20:18,930 - INFO - 📡 DNS: 192.168.29.209 -> proxy.adtech.wynk.in
+2025-08-18 17:20:18,959 - INFO - 📡 DNS: 192.168.29.209 -> imgads.wynk.in
+2025-08-18 17:20:18,983 - INFO - 📡 DNS: 192.168.29.209 -> proxy.adtech.wynk.in
+2025-08-18 17:20:19,018 - INFO - 📡 DNS: 192.168.29.209 -> image.moengage.com
+2025-08-18 17:20:19,050 - INFO - 📡 DNS: 192.168.29.209 -> image.moengage.com
+2025-08-18 17:20:19,082 - INFO - 📡 DNS: 192.168.29.209 -> imgads.wynk.in
+2025-08-18 17:20:19,105 - INFO - 📡 DNS: 192.168.29.209 -> d5pqei1hlfwjj.cloudfront.net
+2025-08-18 17:20:19,135 - INFO - 📡 DNS: 192.168.29.209 -> image.moengage.com
+2025-08-18 17:20:19,848 - INFO - 📡 DNS: 192.168.29.209 -> ts.adtech.wynk.in
+2025-08-18 17:20:19,868 - INFO - 📡 DNS: 192.168.29.209 -> ts.adtech.wynk.in
+2025-08-18 17:20:19,881 - INFO - 📡 DNS: 192.168.29.209 -> ts.adtech.wynk.in
+2025-08-18 17:20:24,825 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 17:20:27,279 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-services.com
+2025-08-18 17:20:33,028 - INFO - 📡 DNS: 192.168.29.209 -> gsp-ssl.ls.apple.com
+2025-08-18 17:20:33,044 - INFO - 📡 DNS: 192.168.29.209 -> gsp-ssl.ls.apple.com
+2025-08-18 17:20:33,062 - INFO - 📡 DNS: 192.168.29.209 -> gsp-ssl.ls.apple.com
+2025-08-18 17:20:33,082 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 17:20:33,101 - INFO - 📡 DNS: 192.168.29.209 -> www.perplexity.ai
+2025-08-18 17:20:33,162 - INFO - 📡 DNS: 192.168.29.209 -> r2cdn.perplexity.ai
+2025-08-18 17:20:33,181 - INFO - 📡 DNS: 192.168.29.209 -> r2cdn.perplexity.ai
+2025-08-18 17:20:33,259 - INFO - 📡 DNS: 192.168.29.209 -> gsp-ssl-india.ls4-apple.com.akadns.net
+2025-08-18 17:20:33,278 - INFO - 📡 DNS: 192.168.29.209 -> gsp-ssl-india.ls4-apple.com.akadns.net
+2025-08-18 17:20:33,448 - INFO - 📡 DNS: 192.168.29.209 -> firebaselogging-pa.googleapis.com
+2025-08-18 17:20:33,638 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 17:20:33,648 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 17:20:33,661 - INFO - 📡 DNS: 192.168.29.209 -> n.sni.global.fastly.net
+2025-08-18 17:20:35,630 - INFO - 📡 DNS: 192.168.29.209 -> api.revenuecat.com
+2025-08-18 17:20:36,811 - INFO - 📡 DNS: 192.168.29.209 -> amp-api-edge.apps.apple.com
+2025-08-18 17:20:36,828 - INFO - 📡 DNS: 192.168.29.209 -> amp-api-edge.apps.apple.com
+2025-08-18 17:20:36,840 - INFO - 📡 DNS: 192.168.29.209 -> amp-api-edge.apps.apple.com
+2025-08-18 17:20:43,255 - INFO - 📡 DNS: 192.168.29.209 -> o33249.ingest.us.sentry.io
+2025-08-18 17:20:43,266 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.c10r.facebook.com
+2025-08-18 17:20:43,284 - INFO - 📡 DNS: 192.168.29.209 -> ab.chatgpt.com
+2025-08-18 17:20:43,305 - INFO - 📡 DNS: 192.168.29.209 -> o33249.ingest.us.sentry.io
+2025-08-18 17:20:43,325 - INFO - 📡 DNS: 192.168.29.209 -> ios.chat.openai.com
+2025-08-18 17:20:43,339 - INFO - 📡 DNS: 192.168.29.209 -> ab.chatgpt.com
+2025-08-18 17:20:43,361 - INFO - 📡 DNS: 192.168.29.209 -> o33249.ingest.us.sentry.io
+2025-08-18 17:20:43,375 - INFO - 📡 DNS: 192.168.29.209 -> ios.chat.openai.com
+2025-08-18 17:20:43,433 - INFO - 📡 DNS: 192.168.29.209 -> ab.chatgpt.com
+2025-08-18 17:20:43,452 - INFO - 📡 DNS: 192.168.29.209 -> ios.chat.openai.com
+2025-08-18 17:20:43,614 - INFO - 📡 DNS: 192.168.29.209 -> inappcheck.itunes.apple.com
+2025-08-18 17:20:43,634 - INFO - 📡 DNS: 192.168.29.209 -> inappcheck.itunes.apple.com
+2025-08-18 17:20:43,651 - INFO - 📡 DNS: 192.168.29.209 -> inappcheck.itunes.apple.com
+2025-08-18 17:20:43,684 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.lb-apple.com.akadns.net
+2025-08-18 17:20:43,702 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.lb-apple.com.akadns.net
+2025-08-18 17:20:43,721 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.lb-apple.com.akadns.net
+2025-08-18 17:20:43,879 - INFO - 📡 DNS: 192.168.29.209 -> buy.itunes-apple.com.akadns.net
+2025-08-18 17:20:43,892 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.g.aaplimg.com
+2025-08-18 17:20:43,972 - INFO - 📡 DNS: 192.168.29.209 -> buy.itunes-apple.com.akadns.net
+2025-08-18 17:20:50,484 - INFO - 📡 DNS: 192.168.29.209 -> www.linkedin.com
+2025-08-18 17:20:50,502 - INFO - 📡 DNS: 192.168.29.209 -> www.linkedin.com
+2025-08-18 17:20:50,529 - INFO - 📡 DNS: 192.168.29.209 -> www.linkedin.com
+2025-08-18 17:20:50,626 - INFO - 📡 DNS: 192.168.29.209 -> ln-0002.ln-msedge.net
+2025-08-18 17:20:51,363 - INFO - 📡 DNS: 192.168.29.209 -> mid4.linkedin.com
+2025-08-18 17:20:51,383 - INFO - 📡 DNS: 192.168.29.209 -> mid4.linkedin.com
+2025-08-18 17:20:51,401 - INFO - 📡 DNS: 192.168.29.209 -> mid4.linkedin.com
+2025-08-18 17:20:51,474 - INFO - 📡 DNS: 192.168.29.209 -> ipv4.ln-0004.ln-msedge.net
+2025-08-18 17:20:51,493 - INFO - 📡 DNS: 192.168.29.209 -> ipv4.ln-0004.ln-msedge.net
+2025-08-18 17:20:51,532 - INFO - 📡 DNS: 192.168.29.209 -> api-adservices.apple.com
+2025-08-18 17:20:51,552 - INFO - 📡 DNS: 192.168.29.209 -> api-adservices.apple.com
+2025-08-18 17:20:51,566 - INFO - 📡 DNS: 192.168.29.209 -> api-adservices.apple.com
+2025-08-18 17:20:51,592 - INFO - 📡 DNS: 192.168.29.209 -> s2s.singular.net
+2025-08-18 17:20:51,610 - INFO - 📡 DNS: 192.168.29.209 -> prd-usw2-requestattribution-iad.apple.com
+2025-08-18 17:20:51,620 - INFO - 📡 DNS: 192.168.29.209 -> prd-usw2-requestattribution-iad.apple.com
+2025-08-18 17:20:51,649 - INFO - 📡 DNS: 192.168.29.209 -> s2s.singular.net
+2025-08-18 17:20:51,661 - INFO - 📡 DNS: 192.168.29.209 -> bag-cdn.itunes-apple.com.akadns.net
+2025-08-18 17:20:51,680 - INFO - 📡 DNS: 192.168.29.209 -> bag-cdn.itunes-apple.com.akadns.net
+2025-08-18 17:20:51,691 - INFO - 📡 DNS: 192.168.29.209 -> bag-cdn.itunes-apple.com.akadns.net
+2025-08-18 17:20:51,701 - INFO - 📡 DNS: 192.168.29.209 -> s2s.singular.net
+2025-08-18 17:20:51,721 - INFO - 📡 DNS: 192.168.29.209 -> a68.dscg4.akamai.net
+2025-08-18 17:20:51,752 - INFO - 📡 DNS: 192.168.29.209 -> a1919.b.akamai.net
+2025-08-18 17:20:51,765 - INFO - 📡 DNS: 192.168.29.209 -> a1919.b.akamai.net
+2025-08-18 17:20:51,827 - INFO - 📡 DNS: 192.168.29.209 -> ca.iadsdk.apple.com
+2025-08-18 17:20:51,836 - INFO - 📡 DNS: 192.168.29.209 -> ca.iadsdk.apple.com
+2025-08-18 17:20:51,849 - INFO - 📡 DNS: 192.168.29.209 -> ca.iadsdk.apple.com
+2025-08-18 17:20:51,954 - INFO - 📡 DNS: 192.168.29.209 -> e4805.dsca.akamaiedge.net
+2025-08-18 17:20:52,257 - INFO - 📡 DNS: 192.168.29.209 -> px.ads.linkedin.com
+2025-08-18 17:20:52,279 - INFO - 📡 DNS: 192.168.29.209 -> px.ads.linkedin.com
+2025-08-18 17:20:52,294 - INFO - 📡 DNS: 192.168.29.209 -> px.ads.linkedin.com
+2025-08-18 17:20:57,257 - INFO - 📡 DNS: 192.168.29.209 -> static.licdn.com
+2025-08-18 17:20:57,274 - INFO - 📡 DNS: 192.168.29.209 -> static.licdn.com
+2025-08-18 17:20:57,292 - INFO - 📡 DNS: 192.168.29.209 -> static.licdn.com
+2025-08-18 17:20:57,346 - INFO - 📡 DNS: 192.168.29.209 -> 2-01-2c3e-003d.cdx.cedexis.net
+2025-08-18 17:20:57,441 - INFO - 📡 DNS: 192.168.29.209 -> linkedin.map.fastly.net
+2025-08-18 17:20:57,629 - INFO - 📡 DNS: 192.168.29.209 -> fpt.dfp.microsoft.com
+2025-08-18 17:20:57,639 - INFO - 📡 DNS: 192.168.29.209 -> fpt.dfp.microsoft.com
+2025-08-18 17:20:57,650 - INFO - 📡 DNS: 192.168.29.209 -> fpt.dfp.microsoft.com
+2025-08-18 17:20:57,719 - INFO - 📡 DNS: 192.168.29.209 -> pme-dfp-greenid-prod.trafficmanager.net
+2025-08-18 17:20:57,734 - INFO - 📡 DNS: 192.168.29.209 -> pme-dfp-greenid-prod.trafficmanager.net
+2025-08-18 17:21:05,364 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 17:21:05,383 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.c10r.facebook.com
+2025-08-18 17:21:05,396 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 17:21:06,982 - INFO - 📡 DNS: 192.168.29.209 -> chat-e2ee-ig-p42.c10r.facebook.com
+2025-08-18 17:21:16,033 - INFO - 📡 DNS: 192.168.29.209 -> instagram.c10r.instagram.com
+2025-08-18 17:21:16,047 - INFO - 📡 DNS: 192.168.29.209 -> dgw.c10r.facebook.com
+2025-08-18 17:21:16,057 - INFO - 📡 DNS: 192.168.29.209 -> dgw.c10r.facebook.com
+2025-08-18 17:21:16,083 - INFO - 📡 DNS: 192.168.29.209 -> instagram.c10r.instagram.com
+2025-08-18 17:21:19,291 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 17:21:19,308 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 17:21:19,326 - INFO - 📡 DNS: 192.168.29.209 -> star.fallback.c10r.facebook.com
+2025-08-18 17:21:23,604 - INFO - 📡 DNS: 192.168.29.209 -> app.snapchat.com
+2025-08-18 17:21:23,630 - INFO - 📡 DNS: 192.168.29.209 -> app.snapchat.com
+2025-08-18 17:21:23,656 - INFO - 📡 DNS: 192.168.29.209 -> us-east1-aws.api.snapchat.com
+2025-08-18 17:21:23,673 - INFO - 📡 DNS: 192.168.29.209 -> usc1-gcp-v61.api.snapchat.com
+2025-08-18 17:21:23,684 - INFO - 📡 DNS: 192.168.29.209 -> aws.duplex.snapchat.com
+2025-08-18 17:21:23,699 - INFO - 📡 DNS: 192.168.29.209 -> us-east1-aws.api.snapchat.com
+2025-08-18 17:21:23,722 - INFO - 📡 DNS: 192.168.29.209 -> app-snapchat.snapchat.com
+2025-08-18 17:21:23,739 - INFO - 📡 DNS: 192.168.29.209 -> aws-proxy-gcp.api.snapchat.com
+2025-08-18 17:21:23,750 - INFO - 📡 DNS: 192.168.29.209 -> usc1-gcp-v62.api.snapchat.com
+2025-08-18 17:21:23,759 - INFO - 📡 DNS: 192.168.29.209 -> us-east1-aws.api.sc-gw.com
+2025-08-18 17:21:23,774 - INFO - 📡 DNS: 192.168.29.209 -> us-central1-gcp.api.snapchat.com
+2025-08-18 17:21:23,784 - INFO - 📡 DNS: 192.168.29.209 -> us-central1-gcp.api.snapchat.com
+2025-08-18 17:21:23,799 - INFO - 📡 DNS: 192.168.29.209 -> aws-proxy-gcp.api.snapchat.com
+2025-08-18 17:21:23,824 - INFO - 📡 DNS: 192.168.29.209 -> us-central1-gcp.api.sc-gw.com
+2025-08-18 17:21:23,852 - INFO - 📡 DNS: 192.168.29.209 -> aws-proxy-gcp.api.sc-gw.com
+2025-08-18 17:21:23,871 - INFO - 📡 DNS: 192.168.29.209 -> us-east4-gcp.api.snapchat.com
+2025-08-18 17:21:23,888 - INFO - 📡 DNS: 192.168.29.209 -> us-east4-gcp.api.snapchat.com
+2025-08-18 17:21:23,940 - INFO - 📡 DNS: 192.168.29.209 -> us-east4-gcp.api.sc-gw.com
+2025-08-18 17:21:23,952 - INFO - 📡 DNS: 192.168.29.209 -> aws.api.snapchat.com
+2025-08-18 17:21:23,977 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-v2.snapchat.com
+2025-08-18 17:21:23,987 - INFO - 📡 DNS: 192.168.29.209 -> app-analytics-v2.snapchat.com
+2025-08-18 17:21:24,051 - INFO - 📡 DNS: 192.168.29.209 -> usc1-gcp-v62.api.snapchat.com
+2025-08-18 17:21:24,080 - INFO - 📡 DNS: 192.168.29.209 -> usc1-gcp-v61.api.snapchat.com
+2025-08-18 17:21:24,090 - INFO - 📡 DNS: 192.168.29.209 -> bolt-gcdn.sc-cdn.net
+2025-08-18 17:21:24,100 - INFO - 📡 DNS: 192.168.29.209 -> bolt-gcdn.sc-cdn.net
+2025-08-18 17:21:24,152 - INFO - 📡 DNS: 192.168.29.209 -> aws.api.snapchat.com
+2025-08-18 17:21:24,180 - INFO - 📡 DNS: 192.168.29.209 -> aws.duplex.snapchat.com
+2025-08-18 17:21:24,209 - INFO - 📡 DNS: 192.168.29.209 -> ap-south1-aws.api.sc-gw.com
+2025-08-18 17:21:24,251 - INFO - 📡 DNS: 192.168.29.209 -> ap-south1-aws.duplex.sc-gw.com
+2025-08-18 17:21:24,355 - INFO - 📡 DNS: 192.168.29.209 -> gcp.api.snapchat.com
+2025-08-18 17:21:24,412 - INFO - 📡 DNS: 192.168.29.209 -> gcp.api.sc-gw.com
+2025-08-18 17:21:24,456 - INFO - 📡 DNS: 192.168.29.209 -> gcp.api.snapchat.com
+2025-08-18 17:21:24,635 - INFO - 📡 DNS: 192.168.29.209 -> cf-st.sc-cdn.net
+2025-08-18 17:21:24,655 - INFO - 📡 DNS: 192.168.29.209 -> cf-st.sc-cdn.net
+2025-08-18 17:21:24,684 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.g.aaplimg.com
+2025-08-18 17:21:24,696 - INFO - 📡 DNS: 192.168.29.209 -> mzstorekit.g.aaplimg.com
+2025-08-18 17:21:25,235 - INFO - 📡 DNS: 192.168.29.209 -> amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
+2025-08-18 17:21:25,253 - INFO - 📡 DNS: 192.168.29.209 -> amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
+2025-08-18 17:21:25,268 - INFO - 📡 DNS: 192.168.29.209 -> amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
+2025-08-18 17:21:28,891 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.fallback.c10r.facebook.com
+2025-08-18 17:21:33,662 - INFO - 📡 DNS: 192.168.29.209 -> star.c10r.facebook.com
+2025-08-18 17:21:42,229 - INFO - 📡 DNS: 192.168.29.209 -> proxy.safebrowsing.apple
+2025-08-18 17:21:42,247 - INFO - 📡 DNS: 192.168.29.209 -> proxy.safebrowsing.apple
+2025-08-18 17:21:42,261 - INFO - 📡 DNS: 192.168.29.209 -> proxy.safebrowsing.apple
+2025-08-18 17:21:42,334 - INFO - 📡 DNS: 192.168.29.209 -> safebrowsing-proxy.g.aaplimg.com
+2025-08-18 17:21:46,889 - INFO - 📡 DNS: 192.168.29.209 -> star-mini.c10r.facebook.com
+2025-08-18 17:21:55,739 - ERROR - Database error: attempt to write a readonly database
+2025-08-18 17:22:00,746 - ERROR - Database error: database is locked
+2025-08-18 17:22:01,610 - ERROR - Database error: database is locked
+2025-08-18 17:22:02,663 - ERROR - Database error: database is locked
+2025-08-18 17:22:02,664 - ERROR - Database error: database is locked
+2025-08-18 17:22:03,668 - ERROR - Database error: database is locked
+2025-08-18 17:22:03,669 - ERROR - Database error: database is locked
+2025-08-18 17:22:03,670 - ERROR - Database error: database is locked
+2025-08-18 17:22:04,363 - ERROR - Database error: database is locked
+2025-08-18 17:22:04,364 - ERROR - Database error: database is locked
+2025-08-18 17:22:05,408 - ERROR - Database error: database is locked
+2025-08-18 17:22:05,409 - ERROR - Database error: database is locked
+2025-08-18 17:22:05,717 - ERROR - Database error: database is locked
+2025-08-18 17:22:05,718 - ERROR - Database error: database is locked
+2025-08-18 17:22:07,015 - ERROR - Database error: database is locked
+2025-08-18 17:22:07,016 - ERROR - Database error: database is locked
+2025-08-18 17:22:07,016 - ERROR - Database error: database is locked
+2025-08-18 17:22:07,016 - ERROR - Database error: database is locked
+2025-08-18 17:22:08,018 - ERROR - Database error: database is locked
+2025-08-18 17:22:08,018 - ERROR - Database error: database is locked
+2025-08-18 17:22:13,967 - ERROR - Database error: database is locked
+2025-08-18 17:22:13,968 - ERROR - Database error: database is locked
+2025-08-18 17:22:13,968 - ERROR - Database error: database is locked
+2025-08-18 17:22:14,987 - ERROR - Database error: database is locked
+2025-08-18 17:22:14,987 - ERROR - Database error: database is locked
+2025-08-18 17:22:14,988 - ERROR - Database error: database is locked
+2025-08-18 17:22:17,040 - ERROR - Database error: database is locked
+2025-08-18 17:22:17,041 - ERROR - Database error: database is locked
+2025-08-18 17:22:17,041 - ERROR - Database error: database is locked
+2025-08-18 17:22:27,717 - ERROR - Database error: database is locked
+2025-08-18 17:22:27,720 - ERROR - Database error: database is locked
+2025-08-18 17:22:28,753 - ERROR - Database error: database is locked
+2025-08-18 17:22:28,755 - ERROR - Database error: database is locked
+2025-08-18 17:22:31,058 - ERROR - Database error: database is locked
+2025-08-18 17:22:31,059 - ERROR - Database error: database is locked
+2025-08-18 17:22:51,325 - ERROR - Database error: database is locked
+2025-08-18 17:22:51,326 - ERROR - Database error: database is locked
+2025-08-18 17:22:51,326 - ERROR - Database error: database is locked
+2025-08-18 17:22:52,371 - ERROR - Database error: database is locked
+2025-08-18 17:22:52,371 - ERROR - Database error: database is locked
+2025-08-18 17:22:52,372 - ERROR - Database error: database is locked
+2025-08-18 17:22:54,408 - ERROR - Database error: database is locked
+2025-08-18 17:22:54,409 - ERROR - Database error: database is locked
+2025-08-18 17:22:54,409 - ERROR - Database error: database is locked
+2025-08-18 17:23:08,128 - ERROR - Database error: database is locked
+2025-08-18 17:23:08,129 - ERROR - Database error: database is locked
+2025-08-18 17:23:08,129 - ERROR - Database error: database is locked
+2025-08-18 17:23:08,996 - ERROR - Database error: database is locked
+2025-08-18 17:23:08,997 - ERROR - Database error: database is locked
+2025-08-18 17:23:08,997 - ERROR - Database error: database is locked
+2025-08-18 17:23:11,202 - ERROR - Database error: database is locked
+2025-08-18 17:23:11,202 - ERROR - Database error: database is locked
+2025-08-18 17:23:11,203 - ERROR - Database error: database is locked
+2025-08-18 17:23:33,969 - ERROR - Database error: attempt to write a readonly database
+2025-08-18 17:23:38,961 - ERROR - Database error: database is locked
+2025-08-18 17:23:38,973 - ERROR - Database error: database is locked
+2025-08-18 17:23:38,973 - ERROR - Database error: database is locked
+2025-08-18 17:23:38,973 - ERROR - Database error: database is locked
+2025-08-18 17:23:38,976 - ERROR - Database error: database is locked
+2025-08-18 17:23:38,976 - ERROR - Database error: database is locked
+2025-08-18 17:23:38,979 - ERROR - Database error: database is locked
+2025-08-18 17:23:38,981 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,000 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,011 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,011 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,013 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,016 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,018 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,021 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,022 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,022 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,023 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,024 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,025 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,026 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,027 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,027 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,028 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,028 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,115 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,115 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,116 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,118 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,119 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,120 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,121 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,122 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,122 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,123 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,124 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,125 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,126 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,126 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,126 - ERROR - Database error: database is locked
+2025-08-18 17:23:39,127 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,284 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,285 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,286 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,287 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,289 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,290 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,289 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,289 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,290 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,291 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,292 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,292 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,294 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,295 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,296 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,297 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,495 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,495 - ERROR - Database error: database is locked
+2025-08-18 17:23:40,495 - ERROR - Database error: database is locked
+2025-08-18 17:25:01,372 - INFO - 🚀 DNS Monitor started on 0.0.0.0:53
+2025-08-19 14:55:46,983 - INFO - 🚀 DNS Monitor started on 0.0.0.0:53
+2025-08-19 14:55:47,644 - ERROR - Database error: attempt to write a readonly database
+2025-08-19 14:55:47,645 - ERROR - Database error: attempt to write a readonly database
+2025-08-19 14:55:47,645 - ERROR - Upstream DNS error: [Errno 101] Network is unreachable
+2025-08-19 14:55:47,646 - ERROR - Upstream DNS error: [Errno 101] Network is unreachable
+2025-08-19 14:55:52,637 - ERROR - Database error: attempt to write a readonly database
+2025-08-19 14:55:52,638 - ERROR - Database error: attempt to write a readonly database
+2025-08-19 15:16:39,919 - INFO - 🚀 DNS Monitor started on 0.0.0.0:53
+2025-08-19 15:16:45,843 - INFO - 📡 DNS: 127.0.0.1 -> google.com
+2025-08-19 15:16:45,904 - INFO - 📡 DNS: 127.0.0.1 -> google.com
